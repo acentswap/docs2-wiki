@@ -22,6 +22,6 @@ Since the first version launched in March 2022, the Kitchen has worked tirelessl
 
 Before adding more features, we are focused on improving the overall performance and user experience of the Mini-Program. As well, we are working with Binance to gradually add more entrances to the Mini-Program so it can be more easily discovered by Binance users – such as within search or earn functions in the application.
 
-This partnership will also bring enhanced access and diversity of offerings unavailable up to this point. An example, easily envisaged, are BEP-20 assets that are not listed on Binance CEX, but will still be available to users within the Binance app with a quick search and jump to the AcentSwap Mini Program. Imagine the value and users this will bring!
+This partnership will also bring enhanced access and diversity of offerings unavailable up to this point. An example, easily envisaged, are ARC-20 assets that are not listed on Binance CEX, but will still be available to users within the Binance app with a quick search and jump to the AcentSwap Mini Program. Imagine the value and users this will bring!
 
 Check out [how to use the AcentSwap Mini-Program](https://docs.pancakeswap.finance/products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program) and [the FAQ](https://docs.pancakeswap.finance/products/pancakeswap-mini-program/mini-program-faq)!

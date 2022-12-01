@@ -4,7 +4,7 @@
 
 * **Ticker:** ADE
 * **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
-* **Chain:** Acent Mainnet (BEP20)
+* **Chain:** Acent Mainnet (ARC20)
 * **Litepaper:** [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
 
 ## The basics

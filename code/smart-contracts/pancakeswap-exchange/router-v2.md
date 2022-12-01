@@ -74,7 +74,7 @@ function addLiquidity(
 ) external returns (uint amountA, uint amountB, uint liquidity);
 ```
 
-Adds liquidity to a BEP20⇄BEP20 pool.
+Adds liquidity to a ARC20⇄ARC20 pool.
 
 | Name           | Type      |                                                                   |
 | -------------- | --------- | ----------------------------------------------------------------- |
@@ -100,7 +100,7 @@ function addLiquidityETH(
 ) external payable returns (uint amountToken, uint amountETH, uint liquidity);
 ```
 
-Adds liquidity to a BEP20⇄WACE pool.
+Adds liquidity to a ARC20⇄WACE pool.
 
 | Name               | Type      |                                                                |
 | ------------------ | --------- | -------------------------------------------------------------- |
@@ -126,7 +126,7 @@ function removeLiquidity(
 ) external returns (uint amountA, uint amountB);
 ```
 
-Removes liquidity from a BEP20⇄BEP20 pool.
+Removes liquidity from a ARC20⇄ARC20 pool.
 
 | Name       | Type      |                                                                   |
 | ---------- | --------- | ----------------------------------------------------------------- |
@@ -151,7 +151,7 @@ function removeLiquidityETH(
 ) external returns (uint amountToken, uint amountETH);
 ```
 
-Removes liquidity from a BEP20⇄WACE pool.
+Removes liquidity from a ARC20⇄WACE pool.
 
 | Name           | Type      |                                                                |
 | -------------- | --------- | -------------------------------------------------------------- |
@@ -175,7 +175,7 @@ function removeLiquidityETHSupportingFeeOnTransferTokens(
 ) external returns (uint amountETH);
 ```
 
-Removes liquidity from a BEP20⇄WACE for tokens that take a fee on transfer.
+Removes liquidity from a ARC20⇄WACE for tokens that take a fee on transfer.
 
 | Name           | Type      |                                                                |
 | -------------- | --------- | -------------------------------------------------------------- |
@@ -200,7 +200,7 @@ function removeLiquidityETHWithPermit(
 ) external returns (uint amountToken, uint amountETH);
 ```
 
-Removes liquidity from a BEP20⇄WACE and receives ACE, without pre-approval, via permit.
+Removes liquidity from a ARC20⇄WACE and receives ACE, without pre-approval, via permit.
 
 | Name           | Type      |                                                                                     |
 | -------------- | --------- | ----------------------------------------------------------------------------------- |
@@ -229,7 +229,7 @@ function removeLiquidityETHWithPermitSupportingFeeOnTransferTokens(
 ) external returns (uint amountETH);
 ```
 
-Removes liquidity from a BEP20⇄WACE and receives ACE via permit for tokens that take a fee on transfer.
+Removes liquidity from a ARC20⇄WACE and receives ACE via permit for tokens that take a fee on transfer.
 
 | Name           | Type      |                                                                                     |
 | -------------- | --------- | ----------------------------------------------------------------------------------- |
@@ -259,7 +259,7 @@ function removeLiquidityWithPermit(
 ) external returns (uint amountA, uint amountB);
 ```
 
-Removes liquidity from a BEP20⇄BEP20, without pre-approval, via permit.
+Removes liquidity from a ARC20⇄ARC20, without pre-approval, via permit.
 
 | Name           | Type      |                                                                                     |
 | -------------- | --------- | ----------------------------------------------------------------------------------- |

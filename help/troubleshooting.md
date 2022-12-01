@@ -221,9 +221,9 @@ You've run out of allowance of your LP token allowance to the MasterChef contrac
 
 ## **Issues with Syrup Pools**
 
-### BEP20: burn amount exceeds balance
+### ARC20: burn amount exceeds balance
 
-> Fail with error 'BEP20: burn amount exceeds balance'
+> Fail with error 'ARC20: burn amount exceeds balance'
 
 You don't have enough SYRUP in your wallet to unstake from the ADE-ADE pool.
 
@@ -274,9 +274,9 @@ Your wallet estimates that the gas limit is too low, so the function call runs o
 {% endtab %}
 {% endtabs %}
 
-### BEP20: transfer amount exceeds allowance
+### ARC20: transfer amount exceeds allowance
 
-> Fail with error 'BEP20: transfer amount exceeds allowance'
+> Fail with error 'ARC20: transfer amount exceeds allowance'
 
 {% tabs %}
 {% tab title="Solution" %}
@@ -290,9 +290,9 @@ This happens when you set a limit on your spend allowance when you first approve
 {% endtab %}
 {% endtabs %}
 
-### BEP20: transfer amount exceeds balance
+### ARC20: transfer amount exceeds balance
 
-> Fail with error 'BEP20: transfer amount exceeds balance'
+> Fail with error 'ARC20: transfer amount exceeds balance'
 
 You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
 
@@ -368,7 +368,7 @@ Happens when trying to remove liquidity on some tokens via Metamask. Root cause 
 
 > Internal JSON-RPC error. { "code": -32000, "message": "insufficient funds for transfer" } - Please try again.
 
-You don't have enough ACE to pay for the transaction fees. You need more BEP-20 network ACE in your wallet.
+You don't have enough ACE to pay for the transaction fees. You need more ARC-20 network ACE in your wallet.
 
 ### Error: \[ethjs-query]
 

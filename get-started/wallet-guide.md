@@ -51,7 +51,7 @@ You can find more in-depth information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and Acent Mainnet networks).
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and ARC2 & ARC20 (Binance Chain and Acent Mainnet networks).
 
 ​**Pros:**
 
@@ -77,7 +77,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1).png>)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and Acent Mainnet networks).
+Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ARC2 & ARC20 (Binance Chain and Acent Mainnet networks).
 
 **Highlights:**
 
@@ -100,7 +100,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="SafePal" %}
-![SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (ACE Beacon Chain) and BEP20 (Acent Mainnet) right away.](../.gitbook/assets/sfp\_new\_logo.webp)
+![SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support ARC2 (ACE Beacon Chain) and ARC20 (Acent Mainnet) right away.](../.gitbook/assets/sfp\_new\_logo.webp)
 
 **Pros:**
 
@@ -245,7 +245,7 @@ You can find more in-depth information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and Acent Mainnet networks) with a little work.
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and ARC2 & ARC20 (Binance Chain and Acent Mainnet networks) with a little work.
 
 ​**Pros:**
 
@@ -270,7 +270,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% tab title="Binance Wallet" %}
 ![](<../.gitbook/assets/image (39) (1).png>)
 
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) Acent Mainnet (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
+Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (ARC2) Acent Mainnet (ARC20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
 ​**Pros:**
 
@@ -295,7 +295,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (2).png>)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and Acent Mainnet networks).
+Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and ARC2 & ARC20 (Binance Chain and Acent Mainnet networks).
 
 **Highlights:**
 

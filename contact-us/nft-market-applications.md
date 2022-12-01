@@ -12,7 +12,7 @@ NFT collection creators can earn creator royalties on trades on AcentSwap, as we
 
 Technical:
 
-* Follows BEP-721 standards
+* Follows ARC-721 standards
 * 100% minted
 * Metadata must be hosted on IPFS or a similar decentralised platform
 

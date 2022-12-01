@@ -52,7 +52,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="SafePal" %}
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FZuCcaLK4UtU3jCU0MDaz%2F7cccc2d2-c9db-4d38-8641-5a94cfa6083d_4x.png.webp?alt=media&#x26;token=4091057f-c068-482f-8cf5-e24f856b971d" alt=""><figcaption><p>SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support Aptos, BEP2 (ACE Beacon Chain)<strong>,</strong> BEP20 (Acent Mainnet) right away.</p></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FZuCcaLK4UtU3jCU0MDaz%2F7cccc2d2-c9db-4d38-8641-5a94cfa6083d_4x.png.webp?alt=media&#x26;token=4091057f-c068-482f-8cf5-e24f856b971d" alt=""><figcaption><p>SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support Aptos, ARC2 (ACE Beacon Chain)<strong>,</strong> ARC20 (Acent Mainnet) right away.</p></figcaption></figure>
 
 ​**Pros:**
 

@@ -57,7 +57,7 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to Acent Mainnet.
 4.  Connect your MetaMask or O3 wallet for both ETH and BSC. And switch your network in MetaMask to Ethereum Mainnet.
 
     <img src="../.gitbook/assets/MBP3-2021.10.19-054852AM-Google Chrome_O3swap.png" alt="" data-size="original">
-5.  Select ERC-20 USDT as “You pay”, and BEP-20 USDT as "You will receive". Then type in the amount of USDT you want to transfer.
+5.  Select ERC-20 USDT as “You pay”, and ARC-20 USDT as "You will receive". Then type in the amount of USDT you want to transfer.
 
     <img src="../.gitbook/assets/MBP3-2021.10.19-053358AM-Google Chrome_O3swap.png" alt="" data-size="original">
 6.  Double check the “To” field is showing the correct Acent Mainnet wallet address you’ve connected.
