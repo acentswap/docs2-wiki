@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap Smart Router is a routing algorithm that links the AMM and stableswap to provide better liquidity and pricing. It uses a smart order routing algorithm that executes trades across multiple pools to find the best price for traders. For more information on StableSwap [click here](../../stableswap/).
+AcentSwap Smart Router is a routing algorithm that links the AMM and stableswap to provide better liquidity and pricing. It uses a smart order routing algorithm that executes trades across multiple pools to find the best price for traders. For more information on StableSwap [click here](../../stableswap/).
 
 The Kitchen will gradually roll out StableSwap pairs to further test and improve the product.
 

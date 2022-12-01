@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page provides links or locations for PancakeSwap's smart contracts on BNB
+  This page provides links or locations for AcentSwap's smart contracts on BNB
   Smart Chain (BSC)
 ---
 
@@ -8,21 +8,21 @@ description: >-
 
 ## Main contracts
 
-The following links will take you to the BscScan page for PancakeSwap's main smart contracts.
+The following links will take you to the BscScan page for AcentSwap's main smart contracts.
 
-* [PancakeSwap: Main Staking Contract/MasterChef v2](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
-* [PancakeSwap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
-* [PancakeSwap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
-* [PancakeSwap: NFT Market v1](https://bscscan.com/address/0x17539cca21c7933df5c980172d22659b8c345c5a)
+* [AcentSwap: Main Staking Contract/MasterChef v2](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
+* [AcentSwap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
+* [AcentSwap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
+* [AcentSwap: NFT Market v1](https://bscscan.com/address/0x17539cca21c7933df5c980172d22659b8c345c5a)
 * Others:
   * [Farms Contracts](./#farms-contracts)
   * [IFO Contracts](./#ifo-contracts)
 
 ## Liquidity pool contracts
 
-Each liquidity pool created by PancakeSwap has its own smart contract. Follow the steps below to view the LP (liquidity pool) token's smart contract on a specific farm.
+Each liquidity pool created by AcentSwap has its own smart contract. Follow the steps below to view the LP (liquidity pool) token's smart contract on a specific farm.
 
-1 - Go to the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
+1 - Go to the [AcentSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
 
 ![](<../../.gitbook/assets/image (126).png>)
 
@@ -36,13 +36,13 @@ IFO contracts are unique to each new IFO. Follow the steps below to view an IFO'
 
 ### Current or most recent IFO
 
-Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
+Go to the [AcentSwap IFO page](https://pancakeswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
 
 ![](<../../.gitbook/assets/image (128).png>)
 
 ### Previous IFOs
 
-1 - Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
+1 - Go to the [AcentSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
 
 ![](<../../.gitbook/assets/image (129).png>)
 

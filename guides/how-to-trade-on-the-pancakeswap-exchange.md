@@ -1,4 +1,4 @@
-# How to Trade on the PancakeSwap Exchange
+# How to Trade on the AcentSwap Exchange
 
 ![Image for post](https://miro.medium.com/max/1400/0*C0Ng5_d1hK28qMMh)
 

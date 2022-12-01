@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/customer-support-header.png)
 
-## There is NO customer support for PancakeSwap.
+## There is NO customer support for AcentSwap.
 
 If you're experiencing issues,
 

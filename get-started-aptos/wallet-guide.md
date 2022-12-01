@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on your PancakeSwap journey on Aptos, the first thing you'll need is to set up a wallet that supports Aptos Chain. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on your AcentSwap journey on Aptos, the first thing you'll need is to set up a wallet that supports Aptos Chain. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -39,7 +39,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with AcentSwap.
 
 |                            | SafePal                        | Trust Wallet | Blocto |
 | -------------------------- | ------------------------------ | ------------ | ------ |
@@ -133,7 +133,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 
 
-3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
+3 - Done! You can now deposit APT into the Aptos wallet and start using AcentSwap on Aptos by going to the "Discover" page!
 
 ![](../.gitbook/assets/blocto-setup-guide-mobile-6.png)![](../.gitbook/assets/blocto-setup-guide-mobile-7.png)
 {% endtab %}
@@ -145,7 +145,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 ### Which desktop wallet should I choose?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap on Aptos
+This comparison table gives an overview of the most popular desktop wallets used with AcentSwap on Aptos
 
 |                            | Petra | Martian | Pontem | Fewcha | Blocto |
 | -------------------------- | ----- | ------- | ------ | ------ | ------ |
@@ -260,7 +260,7 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
+To start using AcentSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
 
 {% tab title="Blocto" %}
@@ -303,12 +303,12 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 
 
-4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
+4 - Done! Please note that you will need to fund your Aptos address with APT to start using AcentSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
 NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+The genuine AcentSwap site and staff will never ask you to input your seed phrase.
 {% endhint %}

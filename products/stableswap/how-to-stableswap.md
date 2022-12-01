@@ -4,7 +4,7 @@
 
 ## **Trading on the StableSwap**
 
-Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+Trading on the StableSwap is very similar to using the existing AcentSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
 
 1 - Go to the swap page [here](https://pancakeswap.finance/swap#/swap)
 
@@ -16,11 +16,11 @@ Trading on the StableSwap is very similar to using the existing PancakeSwap AMM.
 
 ![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.13.54 PM.png>)
 
-4 - From this step on, the swap process is the same as the normal PancakeSwap! Please check the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide) from step 4 onwards
+4 - From this step on, the swap process is the same as the normal AcentSwap! Please check the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide) from step 4 onwards
 
 ## **Adding & Removing Liquidity**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal PancakeSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation.
+Adding and removing liquidity for the StableSwap is also very important and similar to the normal AcentSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation.
 
 There are a few differences for StableSwap liquidity:
 
@@ -42,7 +42,7 @@ There are a few differences for StableSwap liquidity:
 
 ## **Migrate your HAY-BUSD Farm Staking**
 
-Before the StableSwap is launched, HAY-BUSD liquidity and LP farm is already available on PancakeSwap in its normal v2 AMM swap. However, since we are launching HAY-BUSD as the first trading pair on our StableSwap, it is likely that most of you who would like to trade this pair will eventually move to the StableSwap instead of continue using the v2 AMM swap, because:
+Before the StableSwap is launched, HAY-BUSD liquidity and LP farm is already available on AcentSwap in its normal v2 AMM swap. However, since we are launching HAY-BUSD as the first trading pair on our StableSwap, it is likely that most of you who would like to trade this pair will eventually move to the StableSwap instead of continue using the v2 AMM swap, because:
 
 * You can swap more efficiently with the same trade steps
 * With the StableSwap function, the trading slippage is lower than normal AMM which just uses the constant product formula
@@ -52,11 +52,11 @@ Before the StableSwap is launched, HAY-BUSD liquidity and LP farm is already ava
 
 **Why does the farm staking need to be migrated?**&#x20;
 
-Since most trading activities of HAY-BUSD will be on the StableSwap using the Stable LP going forward, CAKE incentives should be directed to reward the Stable LP stakers for encouraging them to provide the liquidity. There would be less activity for the original HAY-BUSD LP (with the v2 AMM).
+Since most trading activities of HAY-BUSD will be on the StableSwap using the Stable LP going forward, ADE incentives should be directed to reward the Stable LP stakers for encouraging them to provide the liquidity. There would be less activity for the original HAY-BUSD LP (with the v2 AMM).
 
 ## How to Migrate LP
 
-There will be a 24-hour window starting from StableSwap launch, and before the CAKE incentives are redirected and the new farm for HAY-BUSD Stable LP is launched. Here’s what you should do if you are currently staking HAY-BUSD LP in the farm:
+There will be a 24-hour window starting from StableSwap launch, and before the ADE incentives are redirected and the new farm for HAY-BUSD Stable LP is launched. Here’s what you should do if you are currently staking HAY-BUSD LP in the farm:
 
 1 - Unstake HAY-BUSD LP from the [farms page](https://pancakeswap.finance/farms)&#x20;
 
@@ -75,4 +75,4 @@ There will be a 24-hour window starting from StableSwap launch, and before the C
 ## Timeline:
 
 * StableSwap launch and HAY-BUSD liquidity provision enabled: **Sep 22 2022 11:00 UTC**
-* Farm migration (CAKE rewards redirect to from HAY-BUSD LP Farm to HAY-BUSD Stable LP Farm)**: Sep 23 2022 11:00 UTC**
+* Farm migration (ADE rewards redirect to from HAY-BUSD LP Farm to HAY-BUSD Stable LP Farm)**: Sep 23 2022 11:00 UTC**

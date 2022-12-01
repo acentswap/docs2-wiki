@@ -6,7 +6,7 @@
 We will be bringing several new updates to the IFO process over the coming weeks, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
 {% endhint %}
 
-An IFO on PancakeSwap is an Initial Farm Offering. IFOs let you get early access to PancakeSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
+An IFO on AcentSwap is an Initial Farm Offering. IFOs let you get early access to AcentSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
 
 IFOs are available for a very limited time. Get ready ahead of the event to make sure you can participate!
 
@@ -14,25 +14,25 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile
+### Create your AcentSwap profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.\
+To take part in an IFO, you'll need a AcentSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total ADE supply down by burning a little ADE from each profile created.\
 \
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
-### Lock CAKE in the CAKE Syrup Pool to get iCAKE
+### Lock ADE in the ADE Syrup Pool to get iADE
 
-iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales. The number of iCAKE you have is based on the number of CAKE staked in the fixed-term CAKE staking pool and the total staking duration of your current fixed-term staking position.
+iADE determines the maximum ADE commit limit in the AcentSwap IFO public sales. For example, if you have 200 iADE, you will be able to commit 200 ADE in any upcoming IFO public sales. The number of iADE you have is based on the number of ADE staked in the fixed-term ADE staking pool and the total staking duration of your current fixed-term staking position.
 
-To get iCAKE, go to the IFO page [here](https://pancakeswap.finance/ifo). Locate the CAKE syrup pool card, and click "Locked" under "Stake CAKE" to proceed.
+To get iADE, go to the IFO page [here](https://pancakeswap.finance/ifo). Locate the ADE syrup pool card, and click "Locked" under "Stake ADE" to proceed.
 
-To learn more about iCAKE and how is iCAKE calculated, check out the doc [here](icake.md).&#x20;
+To learn more about iADE and how is iADE calculated, check out the doc [here](icake.md).&#x20;
 
-### Get CAKE Tokens
+### Get ADE Tokens
 
-Once you have a profile and iCAKE, you will also need to prepare some CAKE tokens in your wallet. These will be used to buy the tokens being offered in the IFO.\
+Once you have a profile and iADE, you will also need to prepare some ADE tokens in your wallet. These will be used to buy the tokens being offered in the IFO.\
 \
-If you are currently staking your CAKE in a pool, unstake them prior to the IFO and make sure the tokens are available in your wallet.
+If you are currently staking your ADE in a pool, unstake them prior to the IFO and make sure the tokens are available in your wallet.
 
 ### Check on your progress
 
@@ -40,7 +40,7 @@ Once you’ve followed the steps above, go back to the IFO page [here](https://p
 
 <img src="../../.gitbook/assets/image (102).png" alt="" data-size="original">
 
-You should see your progress is currently at step 3, Commit CAKE, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher on this page.
+You should see your progress is currently at step 3, Commit ADE, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher on this page.
 
 And that’s it; you’re now ready to participate in an IFO when it goes live!
 
@@ -56,13 +56,13 @@ The **(blocks)** link will open the BscScan explorer in a new window at the star
 
 #### Use social media
 
-There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
+There isn’t a set time before an IFO goes live for the countdown to start, so check AcentSwap’s official social media accounts for news about upcoming IFO times.
 
 The countdown and announcements will give you plenty of time to prepare.
 
 ## **Once the IFO is live**
 
-While an IFO is live, you will have 1 hour to participate. If you have done the steps above and have CAKE tokens in your wallet, it doesn’t take long at all to buy the new token.
+While an IFO is live, you will have 1 hour to participate. If you have done the steps above and have ADE tokens in your wallet, it doesn’t take long at all to buy the new token.
 
 ### Checking if the IFO is live
 
@@ -74,7 +74,7 @@ There are two sales available: Public Sale and Private Sale. It's possible to pa
 
 #### **Public Sale**
 
-In the Public Sale, each participant will be able to commit as much CAKE as they would like up to the number of iCAKE as the limit. If you buy tokens with the Public Sale you will have to pay a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
+In the Public Sale, each participant will be able to commit as much ADE as they would like up to the number of iADE as the limit. If you buy tokens with the Public Sale you will have to pay a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
 
 The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 
@@ -82,7 +82,7 @@ The final amount of IFO tokens one will get will be determined using the “Over
 
 To participate in the new Private Sale, participants will need to meet at least one of the requirements presented on the IFO sale card UI.
 
-Each participant will be able to commit any amount of CAKE up to the maximum commit limit for the Private Sale, which will be published along with the IFO voting proposal. There's no fee in the Private Sale.
+Each participant will be able to commit any amount of ADE up to the maximum commit limit for the Private Sale, which will be published along with the IFO voting proposal. There's no fee in the Private Sale.
 
 The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 
@@ -92,37 +92,37 @@ Basically, the more you put in, the more you will get, and you’ll get back any
 
 In the “Overflow” method, users can subscribe as much as they want to the IFO, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will get back any leftover funds when they claim their tokens after the sale.
 
-### **Committing CAKE to the Public Sale**
+### **Committing ADE to the Public Sale**
 
-1\. Let's commit some CAKE to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
+1\. Let's commit some ADE to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
 
-2\. In the new window, choose the amount of CAKE you want to commit in the field.
+2\. In the new window, choose the amount of ADE you want to commit in the field.
 
-Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+Remember, you can only commit up to to the number of iADE you have. And any ADE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
 
-3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
+3\. Click the **Confirm** button and confirm the action with your wallet. Once your ADE are committed, the Public Sale section will show your committed amount.
 
-You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
+You can add more ADE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
 
-If you don’t want to commit more CAKE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
+If you don’t want to commit more ADE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
 
-### **Committing CAKE to the Private Sale**
+### **Committing ADE to the Private Sale**
 
 ![](<../../.gitbook/assets/image (59).png>)
 
-1\. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your CAKE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
+1\. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your ADE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
 
-2\. In the new window, choose the amount of CAKE you want to commit in the field.
+2\. In the new window, choose the amount of ADE you want to commit in the field.
 
-Remember, you can only commit the amount of CAKE equal to the maximum commit limit for the Private Sale. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+Remember, you can only commit the amount of ADE equal to the maximum commit limit for the Private Sale. And any ADE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
 
-3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Private Sale section will show your committed amount.
+3\. Click the **Confirm** button and confirm the action with your wallet. Once your ADE are committed, the Private Sale section will show your committed amount.
 
-You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.&#x20;
+You can add more ADE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.&#x20;
 
 ## After the IFO has ended
 
-When the IFO has ended, you will be able to collect your new tokens. How many you will get depends on how many people participated in the IFO. **Any extra CAKE you have committed to the IFO that aren't used to buy new tokens will be returned to you.‌**
+When the IFO has ended, you will be able to collect your new tokens. How many you will get depends on how many people participated in the IFO. **Any extra ADE you have committed to the IFO that aren't used to buy new tokens will be returned to you.‌**
 
 ### Token Vesting
 

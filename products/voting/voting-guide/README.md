@@ -10,7 +10,7 @@ Participating in governance voting is easy, and it is absolutely **FREE**. You d
 
 Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../contact-us/telegram.md) for the news and updates.
 
-Alternatively, you can visit [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
+Alternatively, you can visit [AcentSwap's native voting portal](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
 
 #### Read and pick the choice to vote
 
@@ -53,15 +53,15 @@ If you are not sure about how the voting power is calculated, click on the ">" t
 
 ![](<../../../.gitbook/assets/how-to-vote-5 (2).png>)
 
-Please note that only CAKE held in the following places will contribute to the total number of voting power:
+Please note that only ADE held in the following places will contribute to the total number of voting power:
 
 1. In wallet
-2. Flexible CAKE Staking (both in CAKE pool and side pool)
-3. Fixed Term CAKE Staking (boosted by [vCAKE](../vcake.md)!)
+2. Flexible ADE Staking (both in ADE pool and side pool)
+3. Fixed Term ADE Staking (boosted by [vADE](../vcake.md)!)
 4. Other Syrup Pools (provided by other projects)
-5. CAKE/BNB LP&#x20;
+5. ADE/BNB LP&#x20;
 
-CAKE held in other places does not contribute to your voting power.
+ADE held in other places does not contribute to your voting power.
 {% endtab %}
 
 {% tab title="Check the snapshot block" %}
@@ -69,7 +69,7 @@ CAKE held in other places does not contribute to your voting power.
 
 ![](../../../.gitbook/assets/how-to-vote-3.png)
 
-Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
+Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more ADE after the proposal is posted is not going to increase the voting power for that particular proposal.
 
 If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
 

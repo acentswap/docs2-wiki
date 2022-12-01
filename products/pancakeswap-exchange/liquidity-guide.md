@@ -2,17 +2,17 @@
 
 ![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"Liquidity" is central to how AcentSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn ADE rewards!
 
 ### **Adding liquidity**
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+You can easily trade for any tokens you need. Visit our [How to Trade on AcentSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using BNB and CAKE.\
+In this example, we will add liquidity using BNB and ADE.\
 ****
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
@@ -27,7 +27,7 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
-4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use CAKE as an example.
+4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use ADE as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_04.png)
 
@@ -39,7 +39,7 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_06.png)
 
-6\. Click the **Enable CAKE** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Enable ADE** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_07.png)
 

@@ -4,9 +4,9 @@
 
 ![](../.gitbook/assets/nft-masthead.png)
 
-NFT collection creators can earn creator royalties on trades on PancakeSwap, as well as getting visibility for their project on the most prominent NFT marketplace on BNB Smart Chain.
+NFT collection creators can earn creator royalties on trades on AcentSwap, as well as getting visibility for their project on the most prominent NFT marketplace on BNB Smart Chain.
 
-[Apply for Listing on PancakeSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
+[Apply for Listing on AcentSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
 
 ### **Basic requirements for NFT**
 
@@ -26,7 +26,7 @@ In addition to these requirements, the BD team will be asking further due dilige
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to [@PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with **the name of your project and application details.**
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to [@AcentSwapBD](https://t.me/AcentSwapBD) on Telegram, with **the name of your project and application details.**
 
 ## Something else
 

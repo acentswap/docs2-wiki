@@ -1,7 +1,7 @@
 # Router v2
 
 {% hint style="warning" %}
-PancakeSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://docs.uniswap.org/protocol/V2/introduction).\
+AcentSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://docs.uniswap.org/protocol/V2/introduction).\
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://github.com/Uniswap/docs/blob/main/static/whitepaper.pdf).
 {% endhint %}
 
@@ -13,11 +13,11 @@ View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-
 
 **Binance smart chain**\
 ****Contract address**:** 0x10ED43C718714eb63d5aA57B78B54704E256024E\
-View the [PancakeSwap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
+View the [AcentSwap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
 
 **Ethereum mainnet**\
 Contract address**:** 0xEfF92A263d31888d860bD50809A8D171709b7b1c\
-View the [PancakeSwap: Router v2 contract on Etherscan](https://etherscan.io/address/0xEfF92A263d31888d860bD50809A8D171709b7b1c).
+View the [AcentSwap: Router v2 contract on Etherscan](https://etherscan.io/address/0xEfF92A263d31888d860bD50809A8D171709b7b1c).
 
 ## Read functions
 

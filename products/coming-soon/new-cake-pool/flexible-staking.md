@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake in new CAKE Syrup Pool with Flexible Staking
+  This page explains who to stake in new ADE Syrup Pool with Flexible Staking
   option.
 ---
 
@@ -16,7 +16,7 @@ description: >-
 
 ![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1) (1) (1) (1) (1).png>)
 
-4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
+4\. Choose the ADE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-notenable.png)
 
@@ -24,10 +24,10 @@ description: >-
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1-small.png)
 
-6\. For Flexible Staking simply press **Flexible**, which will present a new window, enter the amount of CAKE you wish to stake, click **Confirm** and confirm the transaction in your wallet.
+6\. For Flexible Staking simply press **Flexible**, which will present a new window, enter the amount of ADE you wish to stake, click **Confirm** and confirm the transaction in your wallet.
 
 ![](../../../.gitbook/assets/cake-pool-flex-deposit.png)
 
-Want to convert your flexible staking to fixed-term staking to earn more CAKE? Simply click **Convert to Lock** and choose how long you want to lock your CAKE.
+Want to convert your flexible staking to fixed-term staking to earn more ADE? Simply click **Convert to Lock** and choose how long you want to lock your ADE.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-flex-convert.png) ![](../../../.gitbook/assets/cake-pool-convert-lock.png)

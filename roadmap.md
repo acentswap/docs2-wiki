@@ -33,7 +33,7 @@ Due to considerations of security and confidentiality, some items are not includ
 ### Cooking in Q4
 
 * Multichain\
-  PancakeSwap is expanding to more blockchains
+  AcentSwap is expanding to more blockchains
 * Trading Product Upgrade
   * New swap router to improve capital efficiency and trading experience
   * Market-maker integration
@@ -62,19 +62,19 @@ Due to considerations of security and confidentiality, some items are not includ
 
 #### Earn
 
-* CAKE Staking
+* ADE Staking
   * Fixed-term Staking
-  * CAKE Side Pool - Flexible CAKE staking on the side of locked staking
+  * ADE Side Pool - Flexible ADE staking on the side of locked staking
 * Fixed-Term Staking Benefits&#x20;
-  * iCAKE, IFO benefits
-  * vCAKE, weighted voting power
-  * bCAKE, farm yield booster
+  * iADE, IFO benefits
+  * vADE, weighted voting power
+  * bADE, farm yield booster
   * Events with well-known projects
 * Farms
 * Crosschain Farming
 * Syrup Pools
 * Syrup Pool Farm Boosts
-* Auto-compounding CAKE-CAKE Syrup Pool
+* Auto-compounding ADE-ADE Syrup Pool
 * APR/APY Calculator v3
 * Harvest all function
 
@@ -82,7 +82,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Lottery v2
 * Prediction v0.2\
-  Duo currency with BNB and CAKE\
+  Duo currency with BNB and ADE\
   with Chainlink Price Chart and Chainlink Keepers
 * Team Battle (Trading Comps as a Service)
 * Pottery\
@@ -96,15 +96,15 @@ Due to considerations of security and confidentiality, some items are not includ
 * NFT drops
 * Pancake Squad generative NFT collection
 
-#### Site Upgrades / CAKE / Other Products
+#### Site Upgrades / ADE / Other Products
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
-* IFO CAKE Pool & IFO 3.0
+* IFO ADE Pool & IFO 3.0
 * IFO
   * Private Sales with NFT Utility
   * cIFO, Private Sales with Pancake Profile points utility
   * Token vesting
-  * iCAKE integration
+  * iADE integration
 * PCS Mini-Program in Binance App
 

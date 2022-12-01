@@ -14,9 +14,9 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 {% tab title="🥞🌉 Pancake Bridge" %}
 ****![](<../.gitbook/assets/image (1).png>)****
 
-****[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
+****[**AcentSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively PancakeSwap Community and wider BNB Ecosystem!
+This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively AcentSwap Community and wider BNB Ecosystem!
 
 📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}
