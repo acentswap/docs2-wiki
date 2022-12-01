@@ -18,7 +18,7 @@ This buffer is to accommodate for the fact that we may not be able to reliably f
 
 ### I can’t collect my winnings!
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+Make sure you have enough ACE in your wallet to pay for gas fees. You’ll need a little ACE to trigger the smart contract.
 
 ### **I can't claim winnings from a prediction round on site.**
 

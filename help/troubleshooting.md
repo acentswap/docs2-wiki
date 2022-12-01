@@ -75,7 +75,7 @@ There currently isn't a simple way to solve this issue from the AcentSwap websit
 #### **Approve the LP contract**
 
 Head to the contract of the LP token you're trying to approve.\
-For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
+For example, here's the ETH/WACE pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
 1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 2. In **section "1. approve",** approve the LP token for the router by entering
@@ -152,9 +152,9 @@ Try trading a smaller amount, or increase slippage tolerance via the settings ic
 
 {% tabs %}
 {% tab title="Solution" %}
-**If you got this error while removing liquidity from a BNB pair:**
+**If you got this error while removing liquidity from a ACE pair:**
 
-Please select "Receive WBNB" and retry.
+Please select "Receive WACE" and retry.
 
 **If you got this error while trying to swap:**
 
@@ -343,11 +343,11 @@ Install the official browser extension to connect, or read our guide on [how to 
 
 ### Unsupported Chain ID
 
-Switch your chain to BNB Smart Chain. Check your wallet's documentation for a guide if you need help.
+Switch your chain to Acent Mainnet. Check your wallet's documentation for a guide if you need help.
 
 ### Already processing eth\_requestAccounts. Please wait.
 
-Make sure you are signed in to your wallet app and it's connected to BNB Smart Chain.
+Make sure you are signed in to your wallet app and it's connected to Acent Mainnet.
 
 ### Issues buying SAFEMOON and similar tokens
 
@@ -368,7 +368,7 @@ Happens when trying to remove liquidity on some tokens via Metamask. Root cause 
 
 > Internal JSON-RPC error. { "code": -32000, "message": "insufficient funds for transfer" } - Please try again.
 
-You don't have enough BNB to pay for the transaction fees. You need more BEP-20 network BNB in your wallet.
+You don't have enough ACE to pay for the transaction fees. You need more BEP-20 network ACE in your wallet.
 
 ### Error: \[ethjs-query]
 

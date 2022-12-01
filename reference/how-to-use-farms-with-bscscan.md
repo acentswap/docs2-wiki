@@ -40,7 +40,7 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 1\. First, open [farms.ts on GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 
-2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'ADE-BNB'
+2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'ADE-ACE'
 
 ![](<../../.gitbook/assets/image (132).png>)
 

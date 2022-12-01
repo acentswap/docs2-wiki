@@ -10,13 +10,13 @@
 
 ![](https://lh6.googleusercontent.com/ACvmc-jkAPXkIjsFMCFj7SzOuWXtBzuYBnLWnD_mu1z55XW4POrUEUnfHf_MdNFBwIJboeOplOzbnD0XfaIj5NwacErLiQCkPSfz2DTR_imCidSvJF5TwWQ0vcEtakxSWUr_ibxW)
 
-**2. Connect your BNB Smart Chain Wallet \(top-right hand corner\)**
+**2. Connect your Acent Mainnet Wallet \(top-right hand corner\)**
 
 \*\*\*\*
 
 ![](https://lh6.googleusercontent.com/daqT5y0qByNsNha7dv3AC0bosCLBCq5MfQYV1NTLfG1pJjcuaUuvYbVvZacuWsd1V1ACctFvbfY8BMAB4hb4bPo0_gdXqWBwLawsSDlceIEVi8GOQrsCE6vEAVxZOngxSmFEbN78)
 
-**3. Pick which farm you want to use. For this example, we will pick the ADE-BNB farm.**
+**3. Pick which farm you want to use. For this example, we will pick the ADE-ACE farm.**
 
 \*\*\*\*
 
@@ -28,9 +28,9 @@
 
 ![](https://lh4.googleusercontent.com/tWPfEFbqdefMnZDJlUdJ8frPUhtm9fpdqYszrlC_JsZ1RphfTdDMt2slyJszv3snEGi2H5BHN_Q0Lpi0LrcQEpSppCkRF_SO6ZPqYyXKu0bCxCXiRJstRtCY1UpVOa3UX41831S3)
 
-**5. Select the tokens to add, in this case BNB and ADE. You need to provide them in a 50/50 ratio vs USD value.**
+**5. Select the tokens to add, in this case ACE and ADE. You need to provide them in a 50/50 ratio vs USD value.**
 
-**For example, you would need to add $10 of BNB and $10 of ADE. Once you are done, click “Supply”.**
+**For example, you would need to add $10 of ACE and $10 of ADE. Once you are done, click “Supply”.**
 
   
 ****

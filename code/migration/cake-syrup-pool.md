@@ -202,7 +202,7 @@ You can use the following testnet environment to test the integration of your pr
 
 * $ADE: `0xFa60D973F7642B748046464e165A65B7323b0DEE`\
   (mintable by using `mint(address _to, uint256 _amount) public`)
-* $WBNB: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
+* $WACE: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
 
 #### Factory and Router
 

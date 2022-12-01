@@ -6,17 +6,17 @@ Trading on AcentSwap is very easy compared to most exchanges. You aren't going t
 
 ### Getting set up to trade
 
-Before you can trade, you will need a BNB Smart Chain-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Before you can trade, you will need a Acent Mainnet-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
 
 ### Trading on the AcentSwap exchange
 
 1\. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
 
-2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to AcentSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
+2\. Unlock your Acent Mainnet-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to AcentSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
 
 ![](<../../.gitbook/assets/image (12).png>)
 
-3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB.
+3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is ACE.
 
 ![](<../../.gitbook/assets/image (13).png>)
 
@@ -48,13 +48,13 @@ AcentSwap is a DeFi application such that it interacts with the wallet to comple
 
 ### Gas Fees
 
-As such, the first thing is to **make sure you have enough BNB to pay for the gas fee** of the on-chain transactions. Typically, gas fee fluctuates depending on the number of transactions in the queue, if there are more transactions, a higher gas fee may be required to push through the transaction. On BNB Smart Chain, the gas fee typically ranges from cents to a dollar USD in BNB. Learn more about [gas fee here](https://academy.binance.com/en/glossary/gas).&#x20;
+As such, the first thing is to **make sure you have enough ACE to pay for the gas fee** of the on-chain transactions. Typically, gas fee fluctuates depending on the number of transactions in the queue, if there are more transactions, a higher gas fee may be required to push through the transaction. On Acent Mainnet, the gas fee typically ranges from cents to a dollar USD in ACE. Learn more about [gas fee here](https://academy.binance.com/en/glossary/gas).&#x20;
 
 ### Transaction Fees
 
 If your swapping action still doesn't go through and it is displaying an error for you to revise the slippage -- you may want to check if the tokens you are trying to swap has **any fees and restrictions on transactions**.
 
-It is not uncommon for tokens on BNB Smart Chain to include a **transaction fee** in their contracts, usually these fees could be used for burning, funding a treasury of a fair launch project -- for example, this [APX token has an 1% tax on every transaction](https://apollox-finance.gitbook.io/apollox-finance/apx-token/tax) for sending to a burn address, such that more transactions would mean more burning, accruing value to APX token holders.&#x20;
+It is not uncommon for tokens on Acent Mainnet to include a **transaction fee** in their contracts, usually these fees could be used for burning, funding a treasury of a fair launch project -- for example, this [APX token has an 1% tax on every transaction](https://apollox-finance.gitbook.io/apollox-finance/apx-token/tax) for sending to a burn address, such that more transactions would mean more burning, accruing value to APX token holders.&#x20;
 
 With the transaction fee, whether it is inclusive (a portion of the swap amount is sent elsewhere than your address so the output is less than expected for the estimated input) or exclusive (requiring an additional transfer from your address to send extra tokens so the input is more than expected for the estimated output), it affects the input and output amount that you agree for signing the transaction. In many cases, the transaction cannot meet the input and output requirements because of the tax.
 

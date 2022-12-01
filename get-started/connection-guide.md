@@ -71,10 +71,10 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 1. On the page that opens, type in the following details:
 
-**Network Name:** BNB Smart Chain\
+**Network Name:** Acent Mainnet\
 **RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
 **Chain ID:** 56\
-**Symbol:** BNB\
+**Symbol:** ACE\
 **Block Explorer URL:** [http://bscscan.com](http://bscscan.com)
 
 1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
@@ -144,7 +144,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (26) (1).png>)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
+SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (Acent Mainnet) right away.
 
 ### **Android and iOS**
 
@@ -180,15 +180,15 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. A window will open. Type in the details below.
 
-**Network Name:** BNB Smart Chain\
+**Network Name:** Acent Mainnet\
 **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
 **Chain ID:** 56\
-**Currency Symbol (optional):** BNB\
+**Currency Symbol (optional):** ACE\
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
 
 ![](<../.gitbook/assets/image (85).png>)
 
-1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
+1. Make sure you've typed everything in correctly and click **Save**. Acent Mainnet will now be one of your network options.
 
 ![](<../.gitbook/assets/image (86).png>)
 
@@ -211,7 +211,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ### Chrome and Firefox
 
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
+1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **Acent Mainnet** from the list.
 
 ![](<../.gitbook/assets/image (88).png>)
 

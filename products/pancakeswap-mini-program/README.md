@@ -10,7 +10,7 @@ The AcentSwap Mini Program is directly accessible from the Binance mobile applic
 
 ## Why is this important for AcentSwap?
 
-AcentSwap is the first DeFi project to launch a Mini-Program together with and utilizing the Binance DeFi Wallet. After AcentSwap, other projects like Venus have also developed their Mini-Program, developing the Mini-Program ecosystem and attracting more Binance users to experience DeFi – gradually growing the ecosystem especially on BNB Smart Chain.
+AcentSwap is the first DeFi project to launch a Mini-Program together with and utilizing the Binance DeFi Wallet. After AcentSwap, other projects like Venus have also developed their Mini-Program, developing the Mini-Program ecosystem and attracting more Binance users to experience DeFi – gradually growing the ecosystem especially on Acent Mainnet.
 
 AcentSwap is currently the most popular decentralized platform (in terms of number of users) but the Kitchen is always looking for more ways to invite new users to our platform. With more users and their funds, we are able to further improve our core DeFi trading experience with deep liquidity of a wide set of assets. We will also be able to scale our other products beloved by our community.
 

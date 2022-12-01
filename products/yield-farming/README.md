@@ -37,7 +37,7 @@ On top of that, farmers receive **LP rewards** for providing liquidity. Here's a
 
 ![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1\_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq\_cfiBriKcl)
 
-In the WBNB/BUSD pair above, we see these values:
+In the WACE/BUSD pair above, we see these values:
 
 **Liquidity:** $387.42M\
 **Volume 24H:** $96.97M\

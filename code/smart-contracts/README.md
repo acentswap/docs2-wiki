@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page provides links or locations for AcentSwap's smart contracts on BNB
+  This page provides links or locations for AcentSwap's smart contracts on ACE
   Smart Chain (BSC)
 ---
 

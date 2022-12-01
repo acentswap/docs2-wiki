@@ -28,7 +28,7 @@ If you want to swap other coins that are not on the default list, import them us
 
 _updated on 2022-11-08_
 
-ADE token/coin has not yet been deployed on Aptos yet. Stay tuned for more news, or Swap'em on [our BSC Swap](https://pancakeswap.finance/swap?inputCurrency=BNB\&outputCurrency=0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82).
+ADE token/coin has not yet been deployed on Aptos yet. Stay tuned for more news, or Swap'em on [our BSC Swap](https://pancakeswap.finance/swap?inputCurrency=ACE\&outputCurrency=0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82).
 
 ### Do I need to stake ADE on Aptos to participate in Aptos IFOs?
 

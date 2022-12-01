@@ -41,7 +41,7 @@ Due to considerations of security and confidentiality, some items are not includ
 ### Backlogs
 
 * NFT Gamifications\
-  Potential collaborations with other top projects on BNB Chain
+  Potential collaborations with other top projects on Acent Mainnet
 * NFT Market \
   Phase 3 - open NFT platform\
   Other improvements and upgrades
@@ -82,7 +82,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Lottery v2
 * Prediction v0.2\
-  Duo currency with BNB and ADE\
+  Duo currency with ACE and ADE\
   with Chainlink Price Chart and Chainlink Keepers
 * Team Battle (Trading Comps as a Service)
 * Pottery\

@@ -12,7 +12,7 @@ To provide liquidity, you’ll need to commit an amount of any token pair you li
 
 You can easily trade for any tokens you need. Visit our [How to Trade on AcentSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using BNB and ADE.\
+In this example, we will add liquidity using ACE and ADE.\
 ****
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
@@ -23,7 +23,7 @@ In this example, we will add liquidity using BNB and ADE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_02.png)
 
-3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are gong to use BNB as an example.
+3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are gong to use ACE as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
@@ -39,7 +39,7 @@ In this example, we will add liquidity using BNB and ADE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_06.png)
 
-6\. Click the **Enable ADE** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Enable ADE** button. If you are adding liquidity against tokens other than ACE, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_07.png)
 

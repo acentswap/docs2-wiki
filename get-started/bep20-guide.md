@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
-The native tokens of BNB Smart Chain (BSC) are **BEP20**.
+The native tokens of Acent Mainnet (BSC) are **BEP20**.
 
-To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
+To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 ACE.
 
 You will also need the BEP20 version of any token you want to trade, stake etc. on BSC.
 
@@ -16,7 +16,7 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 
 ****[**AcentSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively AcentSwap Community and wider BNB Ecosystem!
+This bridge allows you to seamlessly move your stablecoins over to Acent Mainnet, and participate in the lively AcentSwap Community and wider ACE Ecosystem!
 
 📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}

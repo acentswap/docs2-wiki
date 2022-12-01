@@ -19,11 +19,11 @@ No, you’ll be able to collect your winnings at any time in the future.
 * Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
 * Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
 
-For example, if there’s 15 BNB in the DOWN side of a round, and the overall prize pool is 150BNB, the DOWN payout ratio will be (150/15)=10x.
+For example, if there’s 15 ACE in the DOWN side of a round, and the overall prize pool is 150ACE, the DOWN payout ratio will be (150/15)=10x.
 
 * Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
 
-In the above case, if the round ends on a DOWN result, if you committed 2 BNB to a DOWN position, you’d get a payout of (2\*10) × (1-0.03) = 19.4 BNB. Your profit would be 17.4 BNB (19.4 - 2).
+In the above case, if the round ends on a DOWN result, if you committed 2 ACE to a DOWN position, you’d get a payout of (2\*10) × (1-0.03) = 19.4 ACE. Your profit would be 17.4 ACE (19.4 - 2).
 
 The treasury fee is currently set at 3%: this may be subject to changes, which would be announced on AcentSwap’s official communication channels. Treasury fees are used to buy back and burn ADE tokens.
 

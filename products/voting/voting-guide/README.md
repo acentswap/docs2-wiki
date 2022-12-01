@@ -59,7 +59,7 @@ Please note that only ADE held in the following places will contribute to the to
 2. Flexible ADE Staking (both in ADE pool and side pool)
 3. Fixed Term ADE Staking (boosted by [vADE](../vcake.md)!)
 4. Other Syrup Pools (provided by other projects)
-5. ADE/BNB LP&#x20;
+5. ADE/ACE LP&#x20;
 
 ADE held in other places does not contribute to your voting power.
 {% endtab %}

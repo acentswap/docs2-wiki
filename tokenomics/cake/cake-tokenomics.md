@@ -49,7 +49,7 @@ As well as the above, ADE is also burned in the following ways:
 * **20%** of ADE spent on lottery tickets
 * **20%** of all profits from Perpetual Trading
 * **45,000** ADE per day (historically assigned to the lottery)
-* **3%** of every BNB Prediction markets round is used to buy ADE for burning
+* **3%** of every ACE Prediction markets round is used to buy ADE for burning
 * **3%** of every ADE Prediction markets round
 * **2%** of every yield harvest from all the flexible staking positions in ADE pool
 * **2%** of every NFT sale on the NFT Market is used to buy ADE for burning

@@ -4,7 +4,7 @@
 
 ## **Trading on the StableSwap**
 
-Trading on the StableSwap is very similar to using the existing AcentSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+Trading on the StableSwap is very similar to using the existing AcentSwap AMM. Before we start, it also requires a Acent Mainnet-compatible wallet and ACE for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
 
 1 - Go to the swap page [here](https://pancakeswap.finance/swap#/swap)
 

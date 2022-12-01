@@ -8,7 +8,7 @@ description: >-
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. Connect to your Acent Mainnet-compatible wallet by clicking the **Connect** button (top right-hand side).
 
 ![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1) (1) (1) (1) (1) (5).png>)
 

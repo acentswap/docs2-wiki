@@ -6,12 +6,12 @@ description: Multi-currency prediction product
 
 ## Contract info
 
-#### **BNB Prediction**
+#### **ACE Prediction**
 
 **Contract name:** PancakePredictionV2\
 **Contract address:** [0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA)
 
-View the [AcentSwap BNB Prediction contract on BscScan](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#code).
+View the [AcentSwap ACE Prediction contract on BscScan](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#code).
 
 
 

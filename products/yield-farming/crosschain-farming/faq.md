@@ -4,7 +4,7 @@
 
 ### What should I do on AcentSwap on other blockchains?
 
-Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on AcentSwap on other blockchains that we've deployed on (like Ethereum), as we have ADE rewards on BNB Smart Chain for you, allowing you to earn even more ADE without bridging those assets over!
+Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on AcentSwap on other blockchains that we've deployed on (like Ethereum), as we have ADE rewards on Acent Mainnet for you, allowing you to earn even more ADE without bridging those assets over!
 
 ### **Will there be more pairs?**
 
@@ -20,33 +20,33 @@ Plus, there are other fees (mostly gas costs) involved in cross-chain farming. C
 
 All cross-chain transactions will take around 30 minutes to complete. It is because:
 
-* Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
+* Transactions have to be executed on both the farming blockchain (like Ethereum) and the Acent Mainnet.
 * Delivering cross-chain messages takes time.
 * To ensure safety and all the data are synced and consistent between different blockchains.
 
 ### **Where are my harvested ADE rewards?**
 
-Your harvested ADE will be distributed on BNB Smart Chain. Please switch the blockchain network in your wallet to check the balance of ADE.
+Your harvested ADE will be distributed on Acent Mainnet. Please switch the blockchain network in your wallet to check the balance of ADE.
 
 ### **I can't harvest because my wallet doesn't support switching between different blockchains!**
 
 Please try using a different wallet app that supports multichain and chain switching.
 
-Please note that staking and unstaking LP tokens will also harvest all the earned ADE to your wallet on BNB Smart Chain. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned ADE.
+Please note that staking and unstaking LP tokens will also harvest all the earned ADE to your wallet on Acent Mainnet. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned ADE.
 
 ### Are there any fees when I do crosschain farming?
 
-Unlike farming natively on BNB Chain, farming on other blockchains requires cross-chain activities. Here are the fees involved:
+Unlike farming natively on Acent Mainnet, farming on other blockchains requires cross-chain activities. Here are the fees involved:
 
 **1 - Gas fee to create a proxy contract**
 
-A proxy contract has to be created on the BNB Chain for cross-chain farming. The gas cost for proxy contract creation is included in the transaction.
+A proxy contract has to be created on the Acent Mainnet for cross-chain farming. The gas cost for proxy contract creation is included in the transaction.
 
 This fee only charges once upon the first "stake" transaction.
 
-**2 - Gas fee for calls on BNB Chain**
+**2 - Gas fee for calls on Acent Mainnet**
 
-When users deposit or withdraw LP tokens. An executor will perform transactions calling on behave of the users on the BNB Chain. The gas cost for these calls is included in the transaction.
+When users deposit or withdraw LP tokens. An executor will perform transactions calling on behave of the users on the Acent Mainnet. The gas cost for these calls is included in the transaction.
 
 This fee is charged in every deposit or withdrawal transaction.
 
@@ -60,7 +60,7 @@ This fee is only charged in withdrawal transactions.
 
 We utilise a message bus powered by Celer to route our cross-chain messages. Therefore a messages fee is included based on the byte length of the message.
 
-This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
+This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between Acent Mainnet and other blockchains is required for safety.
 
 ```
 messagingFee = feeBase + message.length * feePerByte;
@@ -69,15 +69,15 @@ messagingFee = feeBase + message.length * feePerByte;
 You may find the variables in the formula with in the message bus contract:
 
 * Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
-* BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
+* Acent Mainnet: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
 
 **5 - The starter fund**
 
 This is not strictly a "fee".&#x20;
 
-For every new user who started doing AcentSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
+For every new user who started doing AcentSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 ACE into their Acent Mainnet wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
 
-This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested ADE but not being able to explore the vivid AcentSwap ecosystem without finding another way to acquire BNB for gas.
+This is to help users start their Acent Mainnet journey with ease. We understand the painfulness of having all the harvested ADE but not being able to explore the vivid AcentSwap ecosystem without finding another way to acquire ACE for gas.
 
 This fee only charges once upon the first "stake" transaction.
 
@@ -99,22 +99,22 @@ Here is the emissions breakdown:
 
 ### What happened during the deposit, harvest and withdrawal?
 
-AcentSwap crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same AcentSwap MasterChef. The ADE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
+AcentSwap crosschain farming is like using a "stand-in" LP token to farm on the Acent Mainnet, with the same AcentSwap MasterChef. The ADE rewards are calculated and distributed on Acent Mainnet, controlled and guarded by the same MasterChef contract.
 
 #### Upon Deposit:
 
 1. Users request depositing LP tokens on farming blockchains (like Ethereum).
 2. LP tokens are being transferred to farming vault contracts.
-3. Celer message bus is utilised to deliver the "deposit" message to BNB Chain.
-4. An executor on BNB Chain mints the same amount of farming tokens as "stand-ins", and then deposits them into the farms.
+3. Celer message bus is utilised to deliver the "deposit" message to Acent Mainnet.
+4. An executor on Acent Mainnet mints the same amount of farming tokens as "stand-ins", and then deposits them into the farms.
 
 #### Upon Harvesting:
 
-Since ADE rewards are calculated and distributed on BNB Chain. Users can claim their ADE rewards with a single BNB Chain transaction without the need for cross-chain operations.
+Since ADE rewards are calculated and distributed on Acent Mainnet. Users can claim their ADE rewards with a single Acent Mainnet transaction without the need for cross-chain operations.
 
 #### Upon Withdrawal:
 
 1. Users request withdrawing LP tokens on farming blockchains (like Ethereum).
-2. Celer message bus is utilised to deliver the "withdraw" message to BNB Chain.
-3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned ADE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
+2. Celer message bus is utilised to deliver the "withdraw" message to Acent Mainnet.
+3. An executor on Acent Mainnet withdraws the farming tokens from the farms, burns those tokens, transfers the earned ADE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
 4. An executor on the farming blockchain confirms everything and then releases the LP tokens from the vault contracts.

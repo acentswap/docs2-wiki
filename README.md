@@ -14,11 +14,11 @@
 
 ### The people's choice
 
-AcentSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+AcentSwap is the leading decentralized exchange on Acent Mainnet, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? AcentSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
+Why pay more? AcentSwap runs on Acent Mainnet, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
@@ -58,7 +58,7 @@ Win collectible NFTs for participating in trading competitions and more fun & ga
 
 ### Prediction
 
-Win BNB if you can predict whether the BNB price will rise or fall.\
+Win ACE if you can predict whether the ACE price will rise or fall.\
 New rounds every 5 minutes!
 
 ### Pottery

@@ -40,7 +40,7 @@ We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-
 
 You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
 
-## How do I connect my wallet to BNB Smart Chain and AcentSwap?
+## How do I connect my wallet to Acent Mainnet and AcentSwap?
 
 We have a [Connect Your Wallet to AcentSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
 
@@ -80,9 +80,9 @@ Learn about our [bug bounty and potential bounty payouts](https://docs.pancakesw
 
 Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts).
 
-## Why does it say I have no BNB balance?
+## Why does it say I have no ACE balance?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+If you've already [transferred ACE into your Acent Mainnet-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Acent Mainnet](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Acent Mainnet (BSC) selected.
 
 ## How do I vote?
 

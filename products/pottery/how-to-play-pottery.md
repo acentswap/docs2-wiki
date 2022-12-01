@@ -46,7 +46,7 @@ Another way to check if you have won in any weekly draws is to check in the Clai
 
 ![](https://lh5.googleusercontent.com/CjFh9\_5a7PDrCgz7\_F4puNVwbLJj6n0nWT\_XBUXsnQQrFcDzqBL2SV-Rw2TY2kLrVveEcCfBhrk\_62QVQtMaDwwSWCpqp8eCHhN0aAPphCk4BFMJNk78GOsrQ-Kem-5lhBRkM04vBdZwwBOwNmiw4Aw)
 
-If there are, you can claim the prize by clicking the Claim button and it will be a transaction for you to approve. Please note that you will have to pay gas fee on BNB Smart Chain to claim the prize.
+If there are, you can claim the prize by clicking the Claim button and it will be a transaction for you to approve. Please note that you will have to pay gas fee on Acent Mainnet to claim the prize.
 
 ## Withdrawing after 10 weeks
 
@@ -54,6 +54,6 @@ If there are, you can claim the prize by clicking the Claim button and it will b
 
 ![](https://lh6.googleusercontent.com/1LeGKpa30KvmyKDKN5o54K\_HjJAVPyJhIeEmCXQzC8pDJGAJQ1kz89iKdoOwIXH2xOE9nin5r47dCiZvAlluTkOfwf1FfQ5gZ4MtMahGiRZ0TT4sSyOpsUKWOqZxKPnMYeLtZ9F3OuRlaRO\_sqr6Lvo)
 
-You can withdraw the prize by clicking the Withdraw button and it will be a transaction for you to approve. Please note that you will have to pay gas fee on BNB Smart Chain to withdraw the prize.
+You can withdraw the prize by clicking the Withdraw button and it will be a transaction for you to approve. Please note that you will have to pay gas fee on Acent Mainnet to withdraw the prize.
 
 ****

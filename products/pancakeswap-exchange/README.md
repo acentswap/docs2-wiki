@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/pancakeswap-exchange-header.png)
 
-AcentSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of AcentSwap. AcentSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
+AcentSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of AcentSwap. AcentSwap is the leading AMM on the Acent Mainnet, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 
 The AcentSwap Exchange offers several features that support decentralized trading:
 

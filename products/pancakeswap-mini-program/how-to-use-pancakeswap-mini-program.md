@@ -36,11 +36,11 @@ Then, you can click on the transfer button in the DeFi Wallet to transfer funds 
 
 ![](https://lh4.googleusercontent.com/u53X1V\_F7qDrLx9xLZBUUCUXKBUFhQbadVxK3RW1B6pgoKsabgFtDFYprE\_qxUtn6NTxx4j1Olls6VdutFX8f8142DQK5pn4xybTyipRZL07KOhtB\_py-9eI1Kyq2XiuWBHxrV48xp\_Fc4DuNZPDKn4)
 
-## Important! Make Sure there are some BNB in the DeFi Wallet
+## Important! Make Sure there are some ACE in the DeFi Wallet
 
-It is very important to note that assets that have transferred from spot wallet to the DeFi wallet are now out of the Binance centralized, custodial system, hence, all transactions such as transfer, swap, staking would require BNB for the gas fees to complete the transactions on BNB Smart Chain. Without BNB in your DeFi Wallet, none of the functions in the Mini-Programs would work, so be sure to have some BNB in your DeFi Wallet!
+It is very important to note that assets that have transferred from spot wallet to the DeFi wallet are now out of the Binance centralized, custodial system, hence, all transactions such as transfer, swap, staking would require ACE for the gas fees to complete the transactions on Acent Mainnet. Without ACE in your DeFi Wallet, none of the functions in the Mini-Programs would work, so be sure to have some ACE in your DeFi Wallet!
 
-Once you have set up the wallet with assets in it – most importantly BNB, you’re good to try out the AcentSwap Mini-Program!
+Once you have set up the wallet with assets in it – most importantly ACE, you’re good to try out the AcentSwap Mini-Program!
 
 ## Other Entrances to the Mini-Program
 
@@ -60,7 +60,7 @@ There are also other entrances to our Mini-Program and we are working with the B
 
 Currently, four core features have been implemented into the Mini-Program, including:
 
-**1 - AMM Swap** – lets users trade without the need to go through a centralized exchange, trades are routed directly through your own wallet. Liquidity pools can be created for all assets on BNB Smart Chain, a much wider variety of tokens to trade.
+**1 - AMM Swap** – lets users trade without the need to go through a centralized exchange, trades are routed directly through your own wallet. Liquidity pools can be created for all assets on Acent Mainnet, a much wider variety of tokens to trade.
 
 ![](https://lh4.googleusercontent.com/29UK87CLSQ1mkD41fZ36Ayx7hX\_gKIxwUQgPCIeLLHo279elzP7odSw2IIAn2CSDYE3vHMgyadD-tAbzysQe3nCE8vP8H6EHGZJzHyp8EJCWsJ0rWNisELF6JnksBp8lIYpHanRT\_-jlZA-EezVQRIk)
 

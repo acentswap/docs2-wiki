@@ -24,7 +24,7 @@ MasterChef v2 have 2 types of pool: Regular farm pools and Special farm pools, w
 
 Special farm pools: only whitelisted addresses can deposit. They are usually utilized by internal AcentSwap products for rewards distributions.
 
-Regular farm pools: the regular LP tokens farms. For example ADE-BNB, BNB-BUSD, etc…
+Regular farm pools: the regular LP tokens farms. For example ADE-ACE, ACE-BUSD, etc…
 
 #### Withdraw
 
@@ -67,7 +67,7 @@ You can use the following testnet environment to test the integration of your pr
   (mintable by using `mint(address _to, uint256 _amount) public`)
 * $BUSD: `0x8516Fc284AEEaa0374E66037BD2309349FF728eA`\
   ``(mintable by using `mint(uint256 amount) public`)
-* $WBNB: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
+* $WACE: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
 
 #### Factory and Router
 
@@ -76,7 +76,7 @@ You can use the following testnet environment to test the integration of your pr
 
 #### LP Pairs
 
-* ADE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
+* ADE-WACE: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 * ADE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
 
 #### MasterChefs
@@ -85,8 +85,8 @@ You can use the following testnet environment to test the integration of your pr
   * pid0: Manual ADE
   * pid4: Dummy Pool for MasterChef v2
   * pid5: ADE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
-  * pid6: ADE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
+  * pid6: ADE-WACE: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 * v2: `0xB4A466911556e39210a6bB2FaECBB59E4eB7E43d`
   * pid3: ADE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
-  * pid4: ADE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
+  * pid4: ADE-WACE: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 

@@ -20,9 +20,9 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 Yield farming takes a little work to get set up.
 
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the ADE-BNB Farm will only accept ADE-BNB LP Tokens.
+You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the ADE-ACE Farm will only accept ADE-ACE LP Tokens.
 
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get ADE-BNB LP Tokens, you'll first have to provide liquidity for the ADE-BNB pair.
+To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get ADE-ACE LP Tokens, you'll first have to provide liquidity for the ADE-ACE pair.
 
 It may sound intimidating, but it's not too complicated. Let's go through step by step.
 
@@ -34,7 +34,7 @@ Before you proceed, you'll want to choose a Farm that's right for you. [Visit th
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-ADE in case you need it later.
+When you find a Farm that you'd like to use, note down the trading pair, e.g. ACE-ADE in case you need it later.
 
 ### Providing liquidity to get LP Tokens
 
@@ -72,7 +72,7 @@ When you’re ready, click the **Enable** button and confirm your action in your
 ![](<../../.gitbook/assets/image (135).png>)
 
 {% hint style="info" %}
-When you are farming on a different blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
+When you are farming on a different blockchain other than the ACE chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
 
 ![](../../.gitbook/assets/crosschain-farm-wait.png)
 
@@ -80,7 +80,7 @@ To track the progress of a crosschain farming transaction. Click the circular ic
 {% endhint %}
 
 {% hint style="warning" %}
-When you are farming on a different blockchain other than the BNB chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+When you are farming on a different blockchain other than the ACE chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
 {% endhint %}
 
 ## Adding or removing LP Tokens from a Farm
@@ -123,9 +123,9 @@ To collect your rewards, you’ll need to visit your chosen Farm and collect the
 3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the ADE will be claimed to your wallet for you to use as you like.
 
 {% hint style="info" %}
-When you are farming on a different blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
+When you are farming on a different blockchain other than the ACE chain. You will need to always switch to Acent Mainnet to harvest your farming rewards.
 
-If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your ADE. Please note the harvested ADE will be distributed on BNB Smart Chain.
+If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your ADE. Please note the harvested ADE will be distributed on Acent Mainnet.
 
 ![](<../../.gitbook/assets/image (136).png>)
 {% endhint %}
