@@ -73,8 +73,8 @@ The ADE sent to both pools PID-137 and PID-138 are harvested before completing t
 
 To confirm that the circulating ADE supply shown on the AcentSwap homepage is correct,&#x20;
 
-1. Head to the ADE token contract on BscScan and [see how much ADE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of ADE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
-2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.
+1. Head to the ADE token contract on AcentScan and [see how much ADE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of ADE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
+2. Then, subtract this burned amount from the "Total Supply" that AcentScan shows.
 3. This gives you the actual ADE supply.
 
 

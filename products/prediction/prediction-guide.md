@@ -156,7 +156,7 @@ The tab will open with stats for your historic performance in Prediction, includ
 
 ![](<../../.gitbook/assets/image (64).png>)
 
-3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the AcentScan explorer.
 
 ![](<../../.gitbook/assets/image (63).png>)
 

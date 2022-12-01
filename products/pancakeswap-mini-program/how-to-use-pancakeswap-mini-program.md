@@ -16,7 +16,7 @@ Before entering the AcentSwap Mini-Program, there are a disclaimer from Binance 
 
 After you read them, be sure to scroll to the bottom to click on “I understand” to start!
 
-![](https://lh5.googleusercontent.com/g1bOPrn9pnL5TTk4taiNCCUUy56U9ZTChDCB7BI5gofpZMiJLc3iLl-iLHG97WCJRigBSCdz7FQF1LqT-7qgiddVyTBIXeLDyO7B4yuT2oZKuwJUDIYwVKbwfC-q8gJvS6t2S3T4zcPCVjkvnkpZalA)![](https://lh5.googleusercontent.com/EAQ9ygC-rr\_jvn4SE2ikGi6ldBrxATY4nxbbKsvMpGJUWKN4H3Pvk0wqnaNX1u6CV33TVMXBaUg0YCK0LFl9ESpQ7SKzYK1z9CjCj2Jy6zLOPlKySx5F3VFYLUeLH5isUe\_5EBdLDH6vxpgxoQFL1gw)
+![](https://lh5.googleusercontent.com/g1bOPrn9pnL5TTk4taiNCCUUy56U9ZTChDCB7BI5gofpZMiJLc3iLl-iLHG97WCJRigACENTdz7FQF1LqT-7qgiddVyTBIXeLDyO7B4yuT2oZKuwJUDIYwVKbwfC-q8gJvS6t2S3T4zcPCVjkvnkpZalA)![](https://lh5.googleusercontent.com/EAQ9ygC-rr\_jvn4SE2ikGi6ldBrxATY4nxbbKsvMpGJUWKN4H3Pvk0wqnaNX1u6CV33TVMXBaUg0YCK0LFl9ESpQ7SKzYK1z9CjCj2Jy6zLOPlKySx5F3VFYLUeLH5isUe\_5EBdLDH6vxpgxoQFL1gw)
 
 ## Setting up the Binance DeFi Wallet
 

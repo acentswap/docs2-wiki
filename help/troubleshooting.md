@@ -217,7 +217,7 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 You've run out of allowance of your LP token allowance to the MasterChef contract.
 
-**Use token approval manager like unrekt or BscScan to**&#x20;
+**Use token approval manager like unrekt or AcentScan to**&#x20;
 
 ## **Issues with Syrup Pools**
 

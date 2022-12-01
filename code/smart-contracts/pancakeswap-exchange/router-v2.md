@@ -13,7 +13,7 @@ View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-
 
 **Binance smart chain**\
 ****Contract address**:** 0x10ED43C718714eb63d5aA57B78B54704E256024E\
-View the [AcentSwap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
+View the [AcentSwap: Router v2 contract on AcentScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
 
 **Ethereum mainnet**\
 Contract address**:** 0xEfF92A263d31888d860bD50809A8D171709b7b1c\

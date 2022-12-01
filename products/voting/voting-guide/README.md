@@ -71,7 +71,7 @@ ADE held in other places does not contribute to your voting power.
 
 Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more ADE after the proposal is posted is not going to increase the voting power for that particular proposal.
 
-If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
+If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the AcentScan page.
 
 ![](../../../.gitbook/assets/how-to-vote-7.png)
 {% endtab %}

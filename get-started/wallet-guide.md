@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on AcentSwap, the first thing you'll need is to set up a wallet that supports Acent Mainnet (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on AcentSwap, the first thing you'll need is to set up a wallet that supports Acent Mainnet (ACENT). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -41,7 +41,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 | Built-in DApp browser                                             | ➖        | ✅               | ✅                          | ✅            | ✅            |
 | Hardware wallet compatible                                        | ✅        | ✅               | <p>✅<br>(Only SafePal)</p> | ➖            | ➖            |
 | Open source (auditability)                                        | ✅        | ✅               | ➖                          | ✅            | ✅            |
-| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖               | ➖                          | ➖            | ➖            |
+| <p>Interact with AcentScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖               | ➖                          | ➖            | ➖            |
 
 ⚠️ Requires some setup
 
@@ -56,7 +56,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 ​**Pros:**
 
 * Open source for auditability
-* WEB3 capable on BscScan
+* WEB3 capable on AcentScan
 * A strong history of security and reliability
 * A large amount of how-to guides and resources online
 * Many tools and custom settings
@@ -109,7 +109,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 * Supports a large number of languages
 * Setup process is very simple
 * Is available as both a software and hardware wallet (work together)
-* Supports NFTs on both the BSC and ETH networks
+* Supports NFTs on both the ACENT and ETH networks
 
 **Cons:**
 
@@ -235,7 +235,7 @@ This comparison table gives an overview of the most popular desktop wallets used
 | Built-in DApp browser                                             | ➖        | ➖              | ➖               | ✅            |
 | Hardware wallet compatible                                        | ✅        | ✅              | ✅               | ➖            |
 | Open source (auditability)                                        | ✅        | ✅              | ✅               | ✅            |
-| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
+| <p>Interact with AcentScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
 
 ⚠️ Requires additional setup
 
@@ -250,7 +250,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 ​**Pros:**
 
 * Open source for auditability
-* WEB3 capable on BscScan
+* WEB3 capable on AcentScan
 * A strong history of security and reliability
 * A large amount of how-to guides and resources online
 * Many tools and custom settings

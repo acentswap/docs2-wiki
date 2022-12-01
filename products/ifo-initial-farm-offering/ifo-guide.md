@@ -52,7 +52,7 @@ The IFO is a limited-time event; it usually only lasts one or two hours. You'll 
 
 IFOs will have a countdown at the top of the IFO page.
 
-The **(blocks)** link will open the BscScan explorer in a new window at the starting block.
+The **(blocks)** link will open the AcentScan explorer in a new window at the starting block.
 
 #### Use social media
 

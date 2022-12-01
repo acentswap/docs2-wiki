@@ -128,7 +128,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 ![](<../.gitbook/assets/image (78).png>)
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **AcentSwap** button. If you can't see AcentSwap under Recommended, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "Recommended", find and tap the **AcentSwap** button. If you can't see AcentSwap under Recommended, you can also find it under "ACENT".
 
 ![](<../.gitbook/assets/image (79).png>)
 
@@ -152,7 +152,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (82).png>)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **AcentSwap** button. If you can't see AcentSwap under DeFi, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "DeFi", find and tap the **AcentSwap** button. If you can't see AcentSwap under DeFi, you can also find it under "ACENT".
 
 ![](<../.gitbook/assets/image (83).png>)
 
@@ -255,11 +255,11 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 ### Desktop Application
 
 1. When you open the application, DApps should be the default page (if not, click to the DApps page).
-2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
+2. Half way down the page you'll see a list of networks to choose from. Click **ACENT**.
 
 ![](<../.gitbook/assets/image (90).png>)
 
-1. On the list of BSC DApps, you'll find AcentSwap links. Click a **AcentSwap** link.
+1. On the list of ACENT DApps, you'll find AcentSwap links. Click a **AcentSwap** link.
 
 ![](<../.gitbook/assets/image (92).png>)
 

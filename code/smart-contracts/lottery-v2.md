@@ -11,9 +11,9 @@ description: v2
 **Random number generator address:** 0x8c6375Aab6e5B26a30bF241EBBf29AD6e6c503c2\
 (_Random number generator contract must be deployed first_)
 
-View [AcentSwapLottery.sol on BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#code).
+View [AcentSwapLottery.sol on AcentScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#code).
 
-View the [AcentSwap: Lottery contract on BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c).
+View the [AcentSwap: Lottery contract on AcentScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c).
 
 ## Audits
 
@@ -95,7 +95,7 @@ function viewRewardsForTicketId(
     uint32 _bracket;
 ```
 
-Calculates rewards for a ticket after draw given the `lotteryId`, `ticketId`, and `bracket`. Filling and querying will provide a link to detailed price information on [BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#readContract).
+Calculates rewards for a ticket after draw given the `lotteryId`, `ticketId`, and `bracket`. Filling and querying will provide a link to detailed price information on [AcentScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#readContract).
 
 | Name        | Type    | Description                                                           |
 | ----------- | ------- | --------------------------------------------------------------------- |
@@ -165,7 +165,7 @@ discountDivisor:
 
 $$totalPriceForBulkTickets = priceSingleTicket \cdot numberTickets \cdot \frac{(discountDivisor + 1 - numberTickets)}{discountDivisor}$$
 
-Filling and querying will provide a link to detailed price information on BscScan.
+Filling and querying will provide a link to detailed price information on AcentScan.
 
 | Name              | Type    | Description                    |
 | ----------------- | ------- | ------------------------------ |

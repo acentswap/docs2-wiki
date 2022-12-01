@@ -192,7 +192,7 @@ You can query the `cakePool.allocPoint` using `MasterChef.poolInfo(0)`
 **Contract name:** CakePool\
 **Contract address:** `0x45c54210128a065de780C4B0Df3d16664f7f859e`
 
-[View the AcentSwap: Cake Pool Contract on BscScan.](https://bscscan.com/address/0x45c54210128a065de780C4B0Df3d16664f7f859e)****
+[View the AcentSwap: Cake Pool Contract on AcentScan.](https://bscscan.com/address/0x45c54210128a065de780C4B0Df3d16664f7f859e)****
 
 ### **Testnet Environment**
 

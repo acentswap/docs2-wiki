@@ -16,7 +16,7 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
   * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Swap SDK Shared code
   * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector
   * [awgmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/awgmi) - connect to Aptos with similar wagmi React hooks. Including wallet adapters.
-* Smart Contract: All the smart contracts that is deployed on BSC and ETH.
+* Smart Contract: All the smart contracts that is deployed on ACENT and ETH.
 * Smart Contract: All the Move version of smart contracts that is deployed on Aptos.
 * Subgraph: GraphQL endpoint to query the events and entities.
 

@@ -9,7 +9,7 @@
 
 ### Your Responsibilities
 
-* Build smart contracts in Solidity for the Ethereum / BSC blockchain.
+* Build smart contracts in Solidity for the Ethereum / ACENT blockchain.
 * Design, scope, and estimate complex contract based on requirements given.
 * Envision and develop features to help grow AcentSwap.
 * Enthusiastically collaborate with a small team to plan projects at the task level.

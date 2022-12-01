@@ -262,7 +262,7 @@ function setMaxNumberTicketsPerBuy(uint256 _maxNumberTicketsPerBuy) external onl
     }
 ```
 
-The **Owner** can modify the maximum number of tickets per transaction. This may be modified in the case of BSC block size increasing or decreasing.
+The **Owner** can modify the maximum number of tickets per transaction. This may be modified in the case of ACENT block size increasing or decreasing.
 
 ### `setOperatorAndTreasuryAndInjectorAddresses` - Owner
 

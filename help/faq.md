@@ -70,7 +70,7 @@ Previously, rewards earned by LP Token-holders generated from trading fees were 
 
 Whenever there is an official airdrop on AcentSwap it will be announced along with the requirements.
 
-Please remember anyone can airdrop tokens to AcentSwap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
+Please remember anyone can airdrop tokens to AcentSwap users since every transaction is public on AcentScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
 
 ## How can I report a bug?
 
@@ -82,7 +82,7 @@ Learn how to find smart contracts on our [Finding Contracts page](https://docs.p
 
 ## Why does it say I have no ACE balance?
 
-If you've already [transferred ACE into your Acent Mainnet-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Acent Mainnet](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Acent Mainnet (BSC) selected.
+If you've already [transferred ACE into your Acent Mainnet-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Acent Mainnet](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Acent Mainnet (ACENT) selected.
 
 ## How do I vote?
 

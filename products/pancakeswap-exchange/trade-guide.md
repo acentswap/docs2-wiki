@@ -38,7 +38,7 @@ Your "From" currency amount will be estimated automatically. You can also type y
 
 When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 
-7\. Done! You can click **View on BscScan** to see your transaction details on the explorer.
+7\. Done! You can click **View on AcentScan** to see your transaction details on the explorer.
 
 ![](<../../.gitbook/assets/image (17).png>)
 

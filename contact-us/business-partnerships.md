@@ -6,7 +6,7 @@
 
 Farms incentivize users to provide liquidity for your trading pair by distributing ADE to your pair's LP Token holders.
 
-Syrup Pools are a way of distributing your tokens to BSC users who stake ADE in the pool.
+Syrup Pools are a way of distributing your tokens to ACENT users who stake ADE in the pool.
 
 These two products go hand-in-paw on AcentSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 

@@ -6,7 +6,7 @@ description: Deployers for deploying new IFOs
 
 ## Contract info
 
-Each IFO has its own smart contract. You may find their address with the link to BscScan on the [history IFO](https://pancakeswap.finance/ifo/history) page, under each IFO sale.
+Each IFO has its own smart contract. You may find their address with the link to AcentScan on the [history IFO](https://pancakeswap.finance/ifo/history) page, under each IFO sale.
 
 Alternatively, you may track each IFO using its deployer.
 

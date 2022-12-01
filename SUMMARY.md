@@ -1,7 +1,7 @@
 # Table of contents
 
 * [AcentSwap Intro](README.md)
-* [Get Started (BSC)](get-started/README.md)
+* [Get Started (ACENT)](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get ARC20 Tokens](get-started/bep20-guide.md)
   * [Using AcentSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
@@ -104,7 +104,7 @@
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
-* [Smart Contracts (BSC)](code/smart-contracts/README.md)
+* [Smart Contracts (ACENT)](code/smart-contracts/README.md)
   * [AcentSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
     * [v2](code/smart-contracts/pancakeswap-exchange/v2/README.md)
       * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
@@ -139,7 +139,7 @@
 * [Old Tokenomics](reference/old-tokenomics/README.md)
   * [ADE Tokenomics v1](reference/old-tokenomics/cake-tokenomics-v1.md)
   * [Controlling ADE supply v1](reference/old-tokenomics/cake-tokenomics-v1-controlling-cake-supply.md)
-* [How to Use Farms with BscScan](reference/how-to-use-farms-with-bscscan.md)
+* [How to Use Farms with AcentScan](reference/how-to-use-farms-with-bscscan.md)
 
 ## Contract Governance <a href="#governance" id="governance"></a>
 

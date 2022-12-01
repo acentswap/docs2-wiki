@@ -30,20 +30,20 @@ This bridge allows you to seamlessly move your stablecoins over to Acent Mainnet
 {% endtab %}
 
 {% tab title="AnySwap" %}
-Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
+Let's try moving USDT from Polygon (MATIC) blockchain to ACENT using AnySwap.
 
 1. Prepare your Polygon (MATIC) wallet with USDT and some MATIC for gas.
 2. Since AnySwap only supports MetaMask, OKEx Wallet and Coin98 Wallet. If you are using other wallet apps, we recommend you to import your wallet into MetaMask.
 3. Navigate to [https://anyswap.exchange/#/router](https://anyswap.exchange/#/router)
 4. Connect your wallet and switch your network to Polygon (MATIC) Mainnet.
-5.  Select USDT on MATIC mainnet as "From", and USDT on BSC mainnet as "To". Then type in the amount of USDT you want to transfer.
+5.  Select USDT on MATIC mainnet as "From", and USDT on ACENT mainnet as "To". Then type in the amount of USDT you want to transfer.
 
     <img src="../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome_AnySwap - Cross Chain Protocol (1).png" alt="" data-size="original">
 6. Click "Approve USDT" to approve your USDT.
-7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
+7. Additionally if you want AnySwap to deposit your USDT into another ACENT address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.
 9. The entire process will take around 10-30 minutes to complete depends on how congested the network is.
-10. Once finished. You should receive your fund in your BSC wallet. Now you can start using AcentSwap to swap some tokens on Acent Mainnet!
+10. Once finished. You should receive your fund in your ACENT wallet. Now you can start using AcentSwap to swap some tokens on Acent Mainnet!
 {% endtab %}
 
 {% tab title="O3 Hub" %}
@@ -54,7 +54,7 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to Acent Mainnet.
 1. Prepare your ERC-20 (Ethereum Mainnet) wallet with USDT and some ETH for gas.
 2. Since O3 Hub only supports MetaMask and O3 Wallet. If you are using other wallet apps, we recommend you to import your wallet into MetaMask.
 3. Navigate to [https://o3swap.com/hub](https://o3swap.com/hub)
-4.  Connect your MetaMask or O3 wallet for both ETH and BSC. And switch your network in MetaMask to Ethereum Mainnet.
+4.  Connect your MetaMask or O3 wallet for both ETH and ACENT. And switch your network in MetaMask to Ethereum Mainnet.
 
     <img src="../.gitbook/assets/MBP3-2021.10.19-054852AM-Google Chrome_O3swap.png" alt="" data-size="original">
 5.  Select ERC-20 USDT as “You pay”, and ARC-20 USDT as "You will receive". Then type in the amount of USDT you want to transfer.
@@ -68,7 +68,7 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to Acent Mainnet.
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
     <img src="../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome_O3swap (1).png" alt="" data-size="original">
-10. Once finished. You should receive your funds in your BSC wallet. Now you can start using AcentSwap to swap some tokens on Acent Mainnet!
+10. Once finished. You should receive your funds in your ACENT wallet. Now you can start using AcentSwap to swap some tokens on Acent Mainnet!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.
 {% endtab %}

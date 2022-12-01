@@ -2,11 +2,11 @@
 
 ![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
-The native tokens of Acent Mainnet (BSC) are **ARC20**.
+The native tokens of Acent Mainnet (ACENT) are **ARC20**.
 
-To do most things on BSC, you will need to pay gas, which comes in the form of ARC20 ACE.
+To do most things on ACENT, you will need to pay gas, which comes in the form of ARC20 ACE.
 
-You will also need the ARC20 version of any token you want to trade, stake etc. on BSC.
+You will also need the ARC20 version of any token you want to trade, stake etc. on ACENT.
 
 You can go a few ways about converting your tokens to ARC20, but here are the ones we recommend:
 

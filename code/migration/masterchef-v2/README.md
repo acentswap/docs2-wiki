@@ -55,7 +55,7 @@ You can use `cakePerBlock(bool _isRegular)` to query the ADE reward per block th
 **Contract name:** MasterChef v2\
 **Contract address:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
 
-[View the AcentSwap: Main Staking Contract v2 on BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
+[View the AcentSwap: Main Staking Contract v2 on AcentScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
 
 ### Testnet Environment
 
