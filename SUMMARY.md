@@ -11,7 +11,6 @@
   * [General FAQ](help/faq.md)
   * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
   * [Binance Academy Guide](help/binance-academy-guide.md)
-* [Aptos Deployment](aptos-deployment.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [NFT Marketplace Applications](contact-us/nft-market-applications.md)
@@ -115,19 +114,6 @@
   * [Farm Booster (bADE)](code/smart-contracts/farm-booster-bcake.md)
   * [IFO Commit Limit (iADE)](code/smart-contracts/ifo-commit-limit-icake.md)
   * [Cross Chain Farming](code/smart-contracts/cross-chain-farming.md)
-* [Smart Contracts (Aptos)](code/smart-contracts-aptos.md)
-
-## Hiring
-
-* [Become a Chef](hiring/become-a-chef/README.md)
-  * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
-  * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
-  * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
-  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
-  * [Community Manager](hiring/become-a-chef/community-manager-ptbr.md)
 
 ## Reference
 
