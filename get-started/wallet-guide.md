@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on AcentSwap, the first thing you'll need is to set up a wallet that supports Acent Mainnet (ACENT). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on AcentSwap, the first thing you'll need is to set up a wallet that supports Acent Mainnet. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -109,7 +109,6 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 * Supports a large number of languages
 * Setup process is very simple
 * Is available as both a software and hardware wallet (work together)
-* Supports NFTs on both the ACENT and ETH networks
 
 **Cons:**
 

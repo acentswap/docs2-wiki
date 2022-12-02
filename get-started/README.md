@@ -23,7 +23,6 @@ Once you have a wallet set up and connected to AcentSwap, feel free to check our
 [How to Play the Lottery](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
 [How to Use Prediction](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
 [How to Participate in an IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
-[How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
 [How to Vote](https://docs.pancakeswap.finance/products/voting/voting-guide)
 
 Check the menu for more documentation on the range of AcentSwap features and services, including more advanced guides.

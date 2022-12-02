@@ -42,7 +42,6 @@ Here are a few examples of forbidden uses of our Brand Assets:
   * Logos with a strong resemblence to the AcentSwap Icon are also forbidden.
 * ⛔️ **Don't use our Brand Assets to create digital or physcial products for sale, including but not limited to**
   * Merchandise ("Swag")
-  * NFTs
   * Other products
 *   ⛔️ **Don't create derivative names that imply official endorsement**
 

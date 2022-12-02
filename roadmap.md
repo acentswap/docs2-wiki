@@ -38,14 +38,6 @@ Due to considerations of security and confidentiality, some items are not includ
   * New swap router to improve capital efficiency and trading experience
   * Market-maker integration
 
-### Backlogs
-
-* NFT Gamifications\
-  Potential collaborations with other top projects on Acent Mainnet
-* NFT Market \
-  Phase 3 - open NFT platform\
-  Other improvements and upgrades
-
 ### Done
 
 #### Trade
@@ -88,13 +80,6 @@ Due to considerations of security and confidentiality, some items are not includ
 * Pottery\
   Lottery by staking\
   New Pottery cohort every month
-
-#### NFT
-
-* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
-* Customizable User Profile
-* NFT drops
-* Pancake Squad generative NFT collection
 
 #### Site Upgrades / ADE / Other Products
 

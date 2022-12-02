@@ -14,12 +14,6 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your AcentSwap profile
-
-To take part in an IFO, you'll need a AcentSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total ADE supply down by burning a little ADE from each profile created.\
-\
-To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
-
 ### Lock ADE in the ADE Syrup Pool to get iADE
 
 iADE determines the maximum ADE commit limit in the AcentSwap IFO public sales. For example, if you have 200 iADE, you will be able to commit 200 ADE in any upcoming IFO public sales. The number of iADE you have is based on the number of ADE staked in the fixed-term ADE staking pool and the total staking duration of your current fixed-term staking position.

@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
-The native tokens of Acent Mainnet (ACENT) are **ARC20**.
+The native tokens of Acent Mainnet are **ARC20**.
 
 To do most things on ACENT, you will need to pay gas, which comes in the form of ARC20 ACE.
 

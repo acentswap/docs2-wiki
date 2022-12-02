@@ -1,7 +1,7 @@
 # Table of contents
 
 * [AcentSwap Intro](README.md)
-* [Get Started (ACENT)](get-started/README.md)
+* [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get ARC20 Tokens](get-started/bep20-guide.md)
   * [Using AcentSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
@@ -13,7 +13,6 @@
   * [Binance Academy Guide](help/binance-academy-guide.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
-  * [NFT Marketplace Applications](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [The Kitchen Team](the-kitchen-team.md)
@@ -62,10 +61,6 @@
 * [🍯 Pottery](products/pottery/README.md)
   * [How to Play Pottery](products/pottery/how-to-play-pottery.md)
   * [Pottery FAQ](products/pottery/pottery-faq.md)
-* [🖼 NFT Marketplace](products/nft-market.md)
-* [🖼 NFT Profile System](products/nft-profile-system/README.md)
-  * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
-  * [Teams](products/nft-profile-system/teams.md)
 * [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
   * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
   * [iADE](products/ifo-initial-farm-offering/icake.md)

@@ -52,10 +52,6 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 **Millions of dollars** regularly go up for grabs on the AcentSwap Lottery.\
 Join as many as **11,000 daily players** for your chance to win big!
 
-### NFT Collectibles
-
-Win collectible NFTs for participating in trading competitions and more fun & games.
-
 ### Prediction
 
 Win ACE if you can predict whether the ACE price will rise or fall.\
