@@ -14,7 +14,7 @@ In order to keep earning staking rewards, you will need to migrate your farms an
 You need to migrate if you are:
 
 * Farming on AcentSwap **Farms**.
-* Staking in AcentSwap **ADE Syrup Pools** (Manual, Auto, IFO).
+* Staking in AcentSwap **ADE Syrup Pools** (Manual, Auto).
 
 \*other Syrup Pools aren’t affected
 {% endhint %}

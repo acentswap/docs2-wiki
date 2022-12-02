@@ -14,7 +14,7 @@ The Mini-Program frontend is developed under Binance’s guidelines and architec
 
 ## When will other features be added into the Mini-Program?
 
-Due to regulatory concerns, other features like Lottery, IFO, profiles are not able to be added to the Mini-Program yet. Our aim is to educate Binance’s users on the basics of DeFi first and then gradually attract them to come to our web version to experience the full suite of our features!
+Due to regulatory concerns, other features like Lottery, profiles are not able to be added to the Mini-Program yet. Our aim is to educate Binance’s users on the basics of DeFi first and then gradually attract them to come to our web version to experience the full suite of our features!
 
 ## Why should I use the Mini-Program when I can use the web version with a browser wallet?
 

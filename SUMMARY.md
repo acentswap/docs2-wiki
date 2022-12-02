@@ -61,10 +61,6 @@
 * [🍯 Pottery](products/pottery/README.md)
   * [How to Play Pottery](products/pottery/how-to-play-pottery.md)
   * [Pottery FAQ](products/pottery/pottery-faq.md)
-* [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
-  * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
-  * [iADE](products/ifo-initial-farm-offering/icake.md)
-  * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
 * [📈 Analytics (Info)](products/info/README.md)
   * [Analytics](products/info/pancakeswap-analytics.md)
 * [🗳 Voting](products/voting/README.md)
@@ -102,12 +98,10 @@
   * [MasterChef](code/smart-contracts/main-staking-masterchef-contract.md)
   * [Syrup Pools](code/smart-contracts/syrup-pools.md)
   * [ADE Syrup Pool](code/smart-contracts/fixed-term-staking-cake-pool.md)
-  * [IFO](code/smart-contracts/ifo.md)
   * [Prediction](code/smart-contracts/prediction-v2.md)
   * [Lottery](code/smart-contracts/lottery-v2.md)
   * [Pottery](code/smart-contracts/pottery.md)
   * [Farm Booster (bADE)](code/smart-contracts/farm-booster-bcake.md)
-  * [IFO Commit Limit (iADE)](code/smart-contracts/ifo-commit-limit-icake.md)
   * [Cross Chain Farming](code/smart-contracts/cross-chain-farming.md)
 
 ## Reference

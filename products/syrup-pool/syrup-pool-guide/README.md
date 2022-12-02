@@ -32,8 +32,6 @@ It's simpler than farming with AcentSwap's Yield Farms because unlike the Farms,
 
 
 
-**IFO ADE** automatically compounds your rewards: any ADE you earn will be harvested and re-invested in the same pool for you. You can also earn IFO Credit during the calculation period.
-
 **Auto ADE** automatically compounds your rewards: any ADE you earn will be harvested and re-invested in the same pool for you.
 
 **Manual ADE** doesn’t automatically compound like Auto ADE. You’ll need to harvest and compound your earnings manually.

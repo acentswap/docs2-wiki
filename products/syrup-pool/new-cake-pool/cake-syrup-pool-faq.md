@@ -46,10 +46,6 @@ Yes, the fixed-term staking ADE pool APY is variable, just like the old ADE pool
 
 For example, if you lock your ADE for 52 weeks, your yield boost will be larger than if you lock your ADE for 26 weeks. The yield boost increases linearly the longer you lock your ADE.
 
-### Can I still participate in IFOs if my ADE is locked in the Fixed-Term Staking pool, or will I need to buy more ADE?
-
-TBD, more information will be provided soon.
-
 ### Can I vote if my ADE is locked in the Fixed-Term Staking pool?
 
 TBD, more information will be provided soon.

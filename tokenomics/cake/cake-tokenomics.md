@@ -43,7 +43,6 @@ As well as the above, ADE is also burned in the following ways:
 
 * **0.0575%** of every trade made on AcentSwap V2
 * **100%** of ADE sent to the Dev address
-* **100%** of ADE performance fees from IFOs
 * **100%** of ADE spent on Profile Creation and NFT minting
 * **100%** of ADE bid during Farm Auctions
 * **20%** of ADE spent on lottery tickets

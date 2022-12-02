@@ -19,7 +19,3 @@ Providing liquidity will get you LP Tokens, which will earn you rewards in the f
 ### Yield Farming
 
 Yield farming lets users that are providing liquidity earn ADE rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
-
-### Initial Farm Offerings (IFOs)
-
-An Initial Farm Offering is an event that lets users buy into a limited-time offer to purchase new tokens. The IFO price is usually very generous.

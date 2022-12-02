@@ -24,7 +24,6 @@ Due to considerations of security and confidentiality, some items are not includ
 
 ### Ongoing/Recurring
 
-* Regular IFOs and cIFOs
 * Regular new Farms and Syrup Pools&#x20;
 * Farm Auctions\
   [Recently upgraded to a new format](https://medium.com/pancakeswap/reinventing-recipe-new-updates-to-pancakeswap-farm-auctions-2ade3a0283b3?source=collection\_home---4------3-----------------------)
@@ -58,7 +57,6 @@ Due to considerations of security and confidentiality, some items are not includ
   * Fixed-term Staking
   * ADE Side Pool - Flexible ADE staking on the side of locked staking
 * Fixed-Term Staking Benefits&#x20;
-  * iADE, IFO benefits
   * vADE, weighted voting power
   * bADE, farm yield booster
   * Events with well-known projects
@@ -85,11 +83,5 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
-* IFO ADE Pool & IFO 3.0
-* IFO
-  * Private Sales with NFT Utility
-  * cIFO, Private Sales with Pancake Profile points utility
-  * Token vesting
-  * iADE integration
 * PCS Mini-Program in Binance App
 

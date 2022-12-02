@@ -2,7 +2,7 @@
 
 ## Stake ADE, earn ADE!
 
-AcentSwap now offers one ADE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto ADE, IFO ADE, and Manual ADE pools will be retired upon the launch of the new ADE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
+AcentSwap now offers one ADE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto ADE, ADE, and Manual ADE pools will be retired upon the launch of the new ADE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
 ![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1.png)
 
@@ -50,7 +50,6 @@ Stake your ADE for a fixed amount of time to maximise yields and receive additio
 * The longer you lock, the higher the boost applied to the yield! Always offering a higher APY compared to flexible staking!
 * ADE rewards are auto-compounded and will unlock, along with your staked ADE, when your lock duration expires
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
-* IFO ADE credit (the maximum amount of ADE they can commit during an IFO) will be determined from the fixed-term staking pool
 
 **If you have ADE locked in fixed-term staking**
 

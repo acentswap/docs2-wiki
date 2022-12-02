@@ -15,7 +15,6 @@ The following links will take you to the AcentScan page for AcentSwap's main sma
 * [AcentSwap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
 * Others:
   * [Farms Contracts](./#farms-contracts)
-  * [IFO Contracts](./#ifo-contracts)
 
 ## Liquidity pool contracts
 
@@ -28,27 +27,3 @@ Each liquidity pool created by AcentSwap has its own smart contract. Follow the 
 2 - When the details section expands out, click the **View Contract** link on the left to open the contract in AcentScan.
 
 ![](<../../.gitbook/assets/image (127).png>)
-
-## IFO contracts
-
-IFO contracts are unique to each new IFO. Follow the steps below to view an IFO's smart contract.
-
-### Current or most recent IFO
-
-Go to the [AcentSwap IFO page](https://pancakeswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
-
-![](<../../.gitbook/assets/image (128).png>)
-
-### Previous IFOs
-
-1 - Go to the [AcentSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
-
-![](<../../.gitbook/assets/image (129).png>)
-
-2 - Find the banner of the IFO you'd like to see and click the **down arrow** button to expand it.
-
-![](<../../.gitbook/assets/image (130).png>)
-
-3 - Find and click the **View Contract** link on the bottom right of the expanded information.
-
-![](<../../.gitbook/assets/image (131).png>)

@@ -8,8 +8,6 @@
 
 ### [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
 
-### [Apply for an IFO (Token Sale)](business-partnerships.md#ifos-token-sales)
-
 ####
 
 #### Help!
