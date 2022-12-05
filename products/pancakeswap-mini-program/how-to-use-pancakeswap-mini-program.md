@@ -2,7 +2,7 @@
 
 ## Finding the AcentSwap Mini-Program
 
-If you’re using the AcentSwap Mini-Program for the first time, you can simply go to your Binance application and simply swipe down 👆⬇️ from the top in the homepage to find the Mini-Program Marketplace:
+If you’re using the AcentSwap Mini-Program for the first time, you can simply go to your Acent application and simply swipe down 👆⬇️ from the top in the homepage to find the Mini-Program Marketplace:
 
 ![](https://lh4.googleusercontent.com/xVDtwaX2VT61jjzz0u7HlNFCKHo\_uenCUdl7o15bH3fbhW8S53u3AtUHLX-E5JjvKm8HIf\_rouRbUCRfTDIRtP50WYYb9zsDHlD3Beembt3f7L8OEkS4doq8dtaXCpVyiHSFk17eEjbEv9pMmaxLcg0)
 
@@ -12,17 +12,17 @@ Once you’re in the Marketplace, you can easily find the AcentSwap Mini-Program
 
 ## Setting up in the AcentSwap Mini-Program
 
-Before entering the AcentSwap Mini-Program, there are a disclaimer from Binance as well as a user service agreement which you have to read and agree to before you can access the functions.
+Before entering the AcentSwap Mini-Program, there are a disclaimer from Acent as well as a user service agreement which you have to read and agree to before you can access the functions.
 
 After you read them, be sure to scroll to the bottom to click on “I understand” to start!
 
 ![](https://lh5.googleusercontent.com/g1bOPrn9pnL5TTk4taiNCCUUy56U9ZTChDCB7BI5gofpZMiJLc3iLl-iLHG97WCJRigACENTdz7FQF1LqT-7qgiddVyTBIXeLDyO7B4yuT2oZKuwJUDIYwVKbwfC-q8gJvS6t2S3T4zcPCVjkvnkpZalA)![](https://lh5.googleusercontent.com/EAQ9ygC-rr\_jvn4SE2ikGi6ldBrxATY4nxbbKsvMpGJUWKN4H3Pvk0wqnaNX1u6CV33TVMXBaUg0YCK0LFl9ESpQ7SKzYK1z9CjCj2Jy6zLOPlKySx5F3VFYLUeLH5isUe\_5EBdLDH6vxpgxoQFL1gw)
 
-## Setting up the Binance DeFi Wallet
+## Setting up the Acent DeFi Wallet
 
-If it’s your first time using the AcentSwap Mini-Program, and probably any Mini-Program in the Binance application, you’ll likely have to set up your Binance DeFi Wallet first.
+If it’s your first time using the AcentSwap Mini-Program, and probably any Mini-Program in the Acent application, you’ll likely have to set up your Acent DeFi Wallet first.
 
-The Binance DeFi Wallet is a non-custodial decentralized Web3 wallet within the Binance application. Currently, the wallet limits transfers only to and from the Binance CEX spot wallet — it eliminates the need to copy, paste and check the wallet address for withdrawal from Binance CEX spot wallet and depositing back into it. At least for now, no more double, triple, quadruple address checking, sweaty hands and anxiousness for new users dipping a toe into DeFi waters!
+The Acent DeFi Wallet is a non-custodial decentralized Web3 wallet within the Acent application. Currently, the wallet limits transfers only to and from the Acent CEX spot wallet — it eliminates the need to copy, paste and check the wallet address for withdrawal from Acent CEX spot wallet and depositing back into it. At least for now, no more double, triple, quadruple address checking, sweaty hands and anxiousness for new users dipping a toe into DeFi waters!
 
 To set it up, you can just click on Connect Wallet in the AcentSwap homepage, alternatively, you can go to the Wallet tab in the application and click on DeFi Wallet to set it up!
 
@@ -32,19 +32,19 @@ The setup process is designed for CEX users and simplified – users can create 
 
 ![](https://lh4.googleusercontent.com/XLOIQ75QeM0JJ1i\_nCOhYn3fBpYR-atlh-S7f0q0lyS4UrB3wD22zdAQ9ULGz3FsWEvhPOyptx8RhMZmV4g6-mHf2mSafTxmZuIUDqarl8RUMjrXR-IKCvOND8SHdH8h6YKII1-xTg-\_gGACUDNjanI)![](https://lh3.googleusercontent.com/o03FdO3\_TDXGPihTAw6XxaYy2pBSSBUzDIBbLsx4TLXxmcNHIa92hLBikmqWTaQney24Bp8vV3w9YOpPEB2Y7srcLi5rVcjvp4g4M2quFspG0vL5h1Sbhnv6wO4JBPYNTjfBQh1V8VKWCrl21vM6DO0)![](https://lh4.googleusercontent.com/iSdbdnynUksjooLm8soSolCHTX8ZP48xBRUPMZOMiTZudvPXEHVmG-pJ-\_pJGk6xfsoHMOLI8EEibWvPH\_dH3bIjt9PGcho4kFy1\_8lycmdVgGlx7mQn3agqb2ipSral8wjv7NlCbMYgYx5OEIdcwQ0)
 
-Then, you can click on the transfer button in the DeFi Wallet to transfer funds from your Binance spot wallet. Please note that a transfer from the spot wallet is counted as a withdrawal on Binance’s end so there may be withdrawal fees but not gas fees.
+Then, you can click on the transfer button in the DeFi Wallet to transfer funds from your Acent spot wallet. Please note that a transfer from the spot wallet is counted as a withdrawal on Acent’s end so there may be withdrawal fees but not gas fees.
 
 ![](https://lh4.googleusercontent.com/u53X1V\_F7qDrLx9xLZBUUCUXKBUFhQbadVxK3RW1B6pgoKsabgFtDFYprE\_qxUtn6NTxx4j1Olls6VdutFX8f8142DQK5pn4xybTyipRZL07KOhtB\_py-9eI1Kyq2XiuWBHxrV48xp\_Fc4DuNZPDKn4)
 
 ## Important! Make Sure there are some ACE in the DeFi Wallet
 
-It is very important to note that assets that have transferred from spot wallet to the DeFi wallet are now out of the Binance centralized, custodial system, hence, all transactions such as transfer, swap, staking would require ACE for the gas fees to complete the transactions on Acent Mainnet. Without ACE in your DeFi Wallet, none of the functions in the Mini-Programs would work, so be sure to have some ACE in your DeFi Wallet!
+It is very important to note that assets that have transferred from spot wallet to the DeFi wallet are now out of the Acent centralized, custodial system, hence, all transactions such as transfer, swap, staking would require ACE for the gas fees to complete the transactions on Acent Mainnet. Without ACE in your DeFi Wallet, none of the functions in the Mini-Programs would work, so be sure to have some ACE in your DeFi Wallet!
 
 Once you have set up the wallet with assets in it – most importantly ACE, you’re good to try out the AcentSwap Mini-Program!
 
 ## Other Entrances to the Mini-Program
 
-There are also other entrances to our Mini-Program and we are working with the Binance team to add more!
+There are also other entrances to our Mini-Program and we are working with the Acent team to add more!
 
 **1 - Marketplace favorite** – click on the three dots on the top-right corner of the Mini-Program and mark it as favorite, then next time in the Marketplace it will be at the top!
 
@@ -52,7 +52,7 @@ There are also other entrances to our Mini-Program and we are working with the B
 
 **2 - DeFi Wallet** – AcentSwap is on the landing page of the DeFi Wallet, so as you access the DeFi Wallet from the wallet tab, you can also go in from there.&#x20;
 
-**3 - Search bar** – from the Binance application homepage, in the search bar at the top, you can search for certain tokens that are not listed by Binance yet but are included in the AcentSwap list, from there it will direct you to the AcentSwap Mini-Program for trading! In this example, we searched for LOOKS:
+**3 - Search bar** – from the Acent application homepage, in the search bar at the top, you can search for certain tokens that are not listed by Acent yet but are included in the AcentSwap list, from there it will direct you to the AcentSwap Mini-Program for trading! In this example, we searched for LOOKS:
 
 ![](https://lh3.googleusercontent.com/nsMXS-XuSBeV-vlNMuwbWBn6nG5SEVrsa-jWsKIuiPcBXgPm6-i2HkXGCGYZz3SegcA8-s7bU8zUL7dJfO5i7ovefQ8NiLZ906dn91mNIVz2XffvQjblLKSylxcCmE-pWcVBssz4UTJ9AxU3t2GUO2M)![](https://lh5.googleusercontent.com/yq8gIJxkI2TD3wDsMzKXS\_9Iwb-kz6F5xQNnpCZnEBC8M3X6NlJkCJ-xyCO4yeyDknkkqCNnW3Vg0xdJdlV\_7WBnTmZLTblV7C4rOnHd9wZPSUIk6dMOrTGc7JtakG1Zqi4UDl2uneOHNosi7k492ns)
 

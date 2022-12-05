@@ -11,7 +11,7 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-contracts/blob/master/projects/exchange-protocol/contracts/PancakeRouter.sol).
 
-**Binance smart chain**\
+**Acent smart chain**\
 ****Contract address**:** 0x10ED43C718714eb63d5aA57B78B54704E256024E\
 View the [AcentSwap: Router v2 contract on AcentScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
 
@@ -25,7 +25,7 @@ View the [AcentSwap: Router v2 contract on Etherscan](https://etherscan.io/addre
 
 `function WETH() external pure returns (address);`
 
-Returns the canonical address for [Binance: WACE token](https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c) (WETH being a vestige from Ethereum network origins).
+Returns the canonical address for [Acent: WACE token](https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c) (WETH being a vestige from Ethereum network origins).
 
 ### factory
 

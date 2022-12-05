@@ -13,7 +13,7 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
 * Frontend: The main frontend. It contains all the features that are not listed below.
   * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - An SDK for building applications on top of Pancakeswap
   * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Swap SDK Shared code
-  * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector
+  * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including acent chain and acent wallet connector
 * Smart Contract: All the smart contracts that is deployed on ACENT and ETH.
 * Subgraph: GraphQL endpoint to query the events and entities.
 

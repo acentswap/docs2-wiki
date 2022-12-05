@@ -51,7 +51,7 @@ You can find more in-depth information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and ARC2 & ARC20 (Binance Chain and Acent Mainnet networks).
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and ARC2 & ARC20 (Acent Chain and Acent Mainnet networks).
 
 ​**Pros:**
 
@@ -77,7 +77,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1).png>)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ARC2 & ARC20 (Binance Chain and Acent Mainnet networks).
+Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ARC2 & ARC20 (Acent Chain and Acent Mainnet networks).
 
 **Highlights:**
 
@@ -108,7 +108,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with AcentSwap.
 
-|                                                                   | MetaMask | Binance Wallet |
+|                                                                   | MetaMask | Acent Wallet |
 | ----------------------------------------------------------------- | -------- | -------------- |
 | Acent Mainnet support                                           | ⚠️       | ✅              |
 | Built-in DApp browser                                             | ➖        | ➖              |
@@ -124,7 +124,7 @@ You can find more in-depth information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and ARC2 & ARC20 (Binance Chain and Acent Mainnet networks) with a little work.
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and ARC2 & ARC20 (Acent Chain and Acent Mainnet networks) with a little work.
 
 ​**Pros:**
 
@@ -146,16 +146,16 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
-{% tab title="Binance Wallet" %}
+{% tab title="Acent Wallet" %}
 ![](<../.gitbook/assets/image (39) (1).png>)
 
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (ARC2) Acent Mainnet (ARC20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
+Acent Wallet is a browser-plugin wallet that natively supports the Acent Chain (ARC2) Acent Mainnet (ARC20) networks. Acent Wallet was developed by the Acent cryptocurrency exchange.
 
 ​**Pros:**
 
 * Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Can be directly linked to a Binance or Gmail account
+* Backed by the Acent cryptocurrency exchange
+* Can be directly linked to a Acent or Gmail account
 * A streamlined user experience
 * Supports Acent Mainnet by default, making using AcentSwap easy
 * Supports a large number of languages
@@ -167,8 +167,8 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 * Lack of additional tools makes some actions available in other wallets impossible
 * Has fewer online resources than more established wallets
 
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
+[**Download Acent Wallet**](https://www.binance.org/en) (Automatically detects browser)\
+[**Acent Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
 {% endtab %}
 {% endtabs %}
 

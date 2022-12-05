@@ -1,6 +1,6 @@
 ---
 description: >-
-  You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any
+  You don't need an account with Acent, Coinbase, Kraken, Huobi, OKEx or any
   other centralized exchange to start using AcentSwap!
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ![](<../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
 
-AcentSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto AcentSwap without using a centralized exchange?
+AcentSwap is a decentralized application. That means, unlike Acent or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto AcentSwap without using a centralized exchange?
 
 In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your Acent Mainnet wallet, and start using AcentSwap.
 

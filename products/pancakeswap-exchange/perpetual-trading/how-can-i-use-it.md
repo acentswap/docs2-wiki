@@ -44,7 +44,7 @@ More tradable pairs will come soon!
 
 Here is a guide to get started in the world of chart analysis:
 
-* [How to Use TradingView on Binance Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
+* [How to Use TradingView on Acent Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
 * [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 

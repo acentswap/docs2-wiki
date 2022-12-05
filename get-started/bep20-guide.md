@@ -21,10 +21,10 @@ This bridge allows you to seamlessly move your stablecoins over to Acent Mainnet
 📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}
 
-{% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)&#x20;
+{% tab title="💰 Acent" %}
+[**Acent.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)&#x20;
 
-You can withdraw tokens as ARC20 via your Binance account (if you have one). Bear in mind you need an account to do so.
+You can withdraw tokens as ARC20 via your Acent account (if you have one). Bear in mind you need an account to do so.
 
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}

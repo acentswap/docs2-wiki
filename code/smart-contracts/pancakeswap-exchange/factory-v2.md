@@ -11,7 +11,7 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-contracts/blob/master/projects/exchange-protocol/contracts/PancakeFactory.sol).
 
-**Binance smart chain**\
+**Acent smart chain**\
 ****Contract address**:** 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73\
 View the [AcentSwap: Factory v2 contract on AcentScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
 

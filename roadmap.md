@@ -83,5 +83,5 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
-* PCS Mini-Program in Binance App
+* PCS Mini-Program in Acent App
 

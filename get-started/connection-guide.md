@@ -133,12 +133,12 @@ To connect MetaMask to AcentSwap follow the steps below.
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
-{% tab title="Binance Wallet" %}
+{% tab title="Acent Wallet" %}
 ![](<../.gitbook/assets/image (39) (1).png>)
 
 ### Chrome and Firefox
 
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **Acent Mainnet** from the list.
+1. Open Acent Chain Wallet and click on the network selector at the top. The default network will be Acent Chain. Choose **Acent Mainnet** from the list.
 
 ![](<../.gitbook/assets/image (88).png>)
 
@@ -146,14 +146,14 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (2).png>)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
+1. A window will appear asking you to choose a wallet to connect to. Click **Acent Chain Wallet** (it's farther down the list).
 
 ![](<../.gitbook/assets/image (89).png>)
 
 ### Resources
 
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-**Binance Wallet Setup Guide**
+[**Download Acent Wallet**](https://www.binance.org/en) (Automatically detects browser)\
+**Acent Wallet Setup Guide**
 {% endtab %}
 {% endtabs %}
 

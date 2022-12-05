@@ -24,7 +24,7 @@ Trading fees are lower than other top decentralized exchanges too, so that's a d
 ### Decentralized
 
 Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, AcentSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+Unlike centralized exchanges like Acent or Coinbase, AcentSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
 ## 💸 Earn
 

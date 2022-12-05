@@ -41,12 +41,12 @@ AcentSwap uses two sources for our price feeds. They each have their own purpose
 * Our prediction contract uses the ChainLink Oracle price feed to set the prices used to dictate whether a user has won or not.
 * Used for the "Chainlink" chart on the interface.
 
-#### Binance
+#### Acent
 
 * Used for real-time price updates on the AcentSwap prediction market interface.&#x20;
 * Used for the "TradingView" chart on the interface.
 
-Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
+Since we’re using two different price feeds, the real-time price updates from Acent and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
 
 ### The round's result changed after the round ended! Why?
 
