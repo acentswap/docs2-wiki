@@ -7,9 +7,9 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 ## Contract info
 
-**Contract name:** PancakeRouter
+**Contract name:** AcentRouter
 
-View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-contracts/blob/master/projects/exchange-protocol/contracts/PancakeRouter.sol).
+View [AcentRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-contracts/blob/master/projects/exchange-protocol/contracts/AcentRouter.sol).
 
 **Acent smart chain**\
 ****Contract address**:** 0x10ED43C718714eb63d5aA57B78B54704E256024E\
@@ -31,7 +31,7 @@ Returns the canonical address for [Acent: WACE token](https://bscscan.com/addres
 
 `function factory() external pure returns (address);`
 
-Returns the canonical address for [PancakeFactory](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
+Returns the canonical address for [AcentFactory](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
 
 {% hint style="warning" %}
 For explanations of the following, view the [Uniswap v2 Internal Functions documentation](https://uniswap.org/docs/v2/smart-contracts/library/#internal-functions).
@@ -461,13 +461,13 @@ Receive an exact amount of output tokens for as few input tokens as possible.
 ## Interface
 
 ```
-import '@uniswap/v2-core/contracts/interfaces/IPancakeRouter.sol';
+import '@uniswap/v2-core/contracts/interfaces/IAcentRouter.sol';
 ```
 
 ```
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter01 {
+interface IAcentRouter01 {
     function factory() external pure returns (address);
     function WETH() external pure returns (address);
 
@@ -561,11 +561,11 @@ interface IPancakeRouter01 {
     function getAmountsIn(uint amountOut, address[] calldata path) external view returns (uint[] memory amounts);
 }
 
-// File: contracts\interfaces\IPancakeRouter02.sol
+// File: contracts\interfaces\IAcentRouter02.sol
 
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter02 is IPancakeRouter01 {
+interface IAcentRouter02 is IAcentRouter01 {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
         address token,
         uint liquidity,

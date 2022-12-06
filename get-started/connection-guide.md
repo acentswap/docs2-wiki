@@ -39,7 +39,7 @@ To connect Osiris Multi Wallet follow the steps below. Note that Android and iOS
 6. A window will appear asking you to choose a wallet to connect to. Click **Osiris Multi Wallet**.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "AcentSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "AcentSwap" again. Using "Acent Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 ### iOS
