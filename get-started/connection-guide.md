@@ -9,26 +9,34 @@ Check out the steps below for how to connect each of our recommended wallets to 
 ## Smartphone/Mobile
 
 {% tabs %}
-{% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36) (1).png>)
+{% tab title="Osiris Multi Wallet" %}
+![](<../.gitbook/assets/osiris-multi-wallet.jpg>)
 
-To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
+To connect Osiris Multi Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
 ### Android
 
-1. Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
+1. Open Osiris Multi Wallet and tap on the burger icon in the top-left.
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/osiris-multi-wallet-burger-icon.png>)
 
-1. Scroll down to "Popular" and tap on "AcentSwap". You can also find it in "Exchanges".
+2. Tap **Settings** button on the top of the screen.
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../.gitbook/assets/osiris-multi-wallet-setting.png>)
 
-1. A new page will open with the AcentSwap logo and some information. Tap the **Connect** button.
+3. Tap the **Network** button
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../.gitbook/assets/osiris-multi-wallet-network.png>)
 
-1. AcentSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+4. Scroll down and tap on "Acent Mainnet".
+
+![](<../.gitbook/assets/osiris-multi-wallet-network-select.png>)
+
+5. Visit the [AcentSwap website](https://vote.acentswap.shop/). In the top right corner you'll see the **Connect** button. Click it
+
+![](<../.gitbook/assets/swap-mobile-connectBtn.png>)
+
+6. A window will appear asking you to choose a wallet to connect to. Click **Osiris Multi Wallet**.
 
 {% hint style="warning" %}
 If you find you are unable to connect at step 4, go back to the DApps menu and find "AcentSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
@@ -36,14 +44,14 @@ If you find you are unable to connect at step 4, go back to the DApps menu and f
 
 ### iOS
 
-To connect to AcentSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to AcentSwap through iOS, Osiris Multi Wallet have prepared a detailed guide on using WallteConnect.
 
-Read the [Trust Wallet guide to connecting to AcentSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
+Read the [Osiris Multi Wallet guide to connecting to AcentSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
 
 ### **Resources**
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)
+[**Download Osiris Multi Wallet**](https://trustwallet.com) (Automatically detects device)\
+[**Osiris Multi Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)
 {% endtab %}
 
 {% tab title="MetaMask" %}
@@ -57,34 +65,32 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 ![](<../.gitbook/assets/image (72).png>)
 
-1. Tap **Settings** in the menu.
+2. Tap **Settings** in the menu.
 
 ![](<../.gitbook/assets/image (73).png>)
 
-1. In the Settings menu, tap on **Network**.
+3. In the Settings menu, tap on **Network**.
 
 ![](<../.gitbook/assets/image (74).png>)
 
-1. Tap on the **Add Network** button at the bottom.
+4. Tap on the **Add Network** button at the bottom.
 
 ![](<../.gitbook/assets/image (75).png>)
 
-1. On the page that opens, type in the following details:
+5. On the page that opens, type in the following details:
 
 **Network Name:** Acent Mainnet\
-**RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
-**Chain ID:** 56\
+**RPC Url:** [http://192.99.246.181:8545](http://192.99.246.181:8545)\
+**Chain ID:** 8888\
 **Symbol:** ACE\
-**Block Explorer URL:** [http://bscscan.com](http://bscscan.com)
+**Block Explorer URL:** [http://3.37.4.143:4000/blocks](http://3.37.4.143:4000/blocks)
 
-1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
+6. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
 ![](<../.gitbook/assets/image (76).png>)
 
-1. Type "AcentSwap" into the search field and start the search. The top result will be the AcentSwap exchange. Tap to enter it.
-2. You wallet will ask you to connect. Tap **Connect** to connect to AcentSwap.
-
-![](<../.gitbook/assets/image (77).png>)
+7. Type "AcentSwap" into the search field and start the search. The top result will be the AcentSwap exchange. Tap to enter it.
+8. You wallet will ask you to connect. Tap **Connect** to connect to AcentSwap.
 
 ### Resources
 
@@ -105,17 +111,17 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 ![](<../.gitbook/assets/image (84).png>)
 
-1. A window will open. Type in the details below.
+2. A window will open. Type in the details below.
 
 **Network Name:** Acent Mainnet\
-**New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
-**Chain ID:** 56\
-**Currency Symbol (optional):** ACE\
-**Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
+**RPC Url:** [http://192.99.246.181:8545](http://192.99.246.181:8545)\
+**Chain ID:** 8888\
+**Symbol:** ACE\
+**Block Explorer URL:** [http://3.37.4.143:4000/blocks](http://3.37.4.143:4000/blocks)
 
-![](<../.gitbook/assets/image (85).png>)
+![](<../.gitbook/assets/metamask-acent-network-add.jpg>)
 
-1. Make sure you've typed everything in correctly and click **Save**. Acent Mainnet will now be one of your network options.
+3. Make sure you've typed everything in correctly and click **Save**. Acent Mainnet will now be one of your network options.
 
 ![](<../.gitbook/assets/image (86).png>)
 

@@ -19,15 +19,6 @@ You can use a variety of different cross-chain bridges to transfer tokens from E
 In the following tutorials, we are going to demonstrate moving USDT from a variety of different blockchains to Acent Mainnet, using three different cross-chain bridges.
 
 {% tabs %}
-{% tab title="🥞🌉 Pancake Bridge (recommanded)" %}
-![](../.gitbook/assets/image.png)
-
-[**AcentSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
-
-This bridge allows you to seamlessly move your stablecoins over to Acent Mainnet, and participate in the lively AcentSwap Community and wider ACE Ecosystem!
-
-📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
-{% endtab %}
 
 {% tab title="AnySwap" %}
 Let's try moving USDT from Polygon (MATIC) blockchain to ACENT using AnySwap.
