@@ -63,11 +63,11 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](<../.gitbook/assets/image (72).png>)
+    ![](<../.gitbook/assets/image (72).png>)
 
 2. Tap **Settings** in the menu.
 
-![](<../.gitbook/assets/image (73).png>)
+    ![](<../.gitbook/assets/image (73).png>)
 
 3. In the Settings menu, tap on **Network**.
 
