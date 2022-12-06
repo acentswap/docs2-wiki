@@ -156,8 +156,8 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 ### Resources
 
-[**Download Acent Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-**Acent Wallet Setup Guide**
+[**Download Osiris Multi Wallet**](https://www.binance.org/en) (Automatically detects browser)\
+**Osiris Multi Wallet Setup Guide**
 {% endtab %}
 {% endtabs %}
 
