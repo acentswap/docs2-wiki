@@ -12,10 +12,6 @@
 
 > Instantly swap crypto tokens: no registration or account needed.
 
-### The people's choice
-
-AcentSwap is the leading decentralized exchange on Acent Mainnet, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
-
 ### Low fees
 
 Why pay more? AcentSwap runs on Acent Mainnet, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
