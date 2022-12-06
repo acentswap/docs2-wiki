@@ -63,11 +63,6 @@
   * [How to Vote](products/voting/voting-guide/README.md)
     * [How to Vote with SafePal Wallet](products/voting/voting-guide/how-to-vote-with-safepal-wallet.md)
   * [vADE](products/voting/vcake.md)
-* [🌐 AcentSwap Mini-Program](products/pancakeswap-mini-program/README.md)
-  * [How to Use AcentSwap Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
-  * [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)
-* [🍳 Coming Soon!](products/coming-soon/README.md)
-  * [Zap](products/coming-soon/zap.md)
 
 ## Tokenomics
 
