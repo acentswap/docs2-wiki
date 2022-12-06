@@ -139,8 +139,8 @@ To connect MetaMask to AcentSwap follow the steps below.
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
-{% tab title="Acent Wallet" %}
-![](<../.gitbook/assets/image (39) (1).png>)
+{% tab title="Osiris Multi Wallet" %}
+![](<../.gitbook/assets/osiris-multi-wallet.jpg>)
 
 ### Chrome and Firefox
 
