@@ -82,7 +82,7 @@ Learn how to find smart contracts on our [Finding Contracts page](https://docs.p
 
 ## Why does it say I have no ACE balance?
 
-If you've already [transferred ACE into your Acent Mainnet-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Acent Mainnet](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Acent Mainnet selected.
+If you've already [transferred ACE into your Acent Mainnet-enabled wallet](https://docs.pancakeswap.finance/get-started/arc20-guide) but still have this error, you're most likely not [connected to Acent Mainnet](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Acent Mainnet selected.
 
 ## How do I vote?
 
