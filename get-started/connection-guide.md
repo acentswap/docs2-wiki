@@ -146,7 +146,7 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 1. Open Osiris Multi Wallet and click on the network selector at the top. The default network will be Acent Chain. Choose **Acent Mainnet** from the list.
 
-    ![](<../.gitbook/assets/osiris-multi-wallet.jpg>)
+    ![](<../.gitbook/assets/osiris-multi-wallet-network-select.png>)
 
 2. Visit the AcentSwap website. In the top-right, click **Connect**.
 
