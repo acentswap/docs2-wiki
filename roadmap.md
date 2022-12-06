@@ -4,8 +4,8 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](.gitbook/assets/roadmap-header.png)
-
+![](.gitbook/assets/roadmap_2021-2022.webp)
+<!-- 
 _Updated on October 11, 2022_
 
 ### Finally, it's a roadmap not a to-do list.
@@ -84,4 +84,4 @@ Due to considerations of security and confidentiality, some items are not includ
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
 * PCS Mini-Program in Acent App
-
+ -->
