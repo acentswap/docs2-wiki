@@ -18,23 +18,23 @@ To connect Osiris Multi Wallet follow the steps below. Note that Android and iOS
 
 1. Open Osiris Multi Wallet and tap on the burger icon in the top-left.
 
-![](<../.gitbook/assets/osiris-multi-wallet-burger-icon.png>)
+    ![](<../.gitbook/assets/osiris-multi-wallet-burger-icon.png>)
 
 2. Tap **Settings** button on the top of the screen.
 
-![](<../.gitbook/assets/osiris-multi-wallet-setting.png>)
+    ![](<../.gitbook/assets/osiris-multi-wallet-setting.png>)
 
 3. Tap the **Network** button
 
-![](<../.gitbook/assets/osiris-multi-wallet-network.png>)
+    ![](<../.gitbook/assets/osiris-multi-wallet-network.png>)
 
 4. Scroll down and tap on "Acent Mainnet".
 
-![](<../.gitbook/assets/osiris-multi-wallet-network-select.png>)
+    ![](<../.gitbook/assets/osiris-multi-wallet-network-select.png>)
 
 5. Visit the [AcentSwap website](https://vote.acentswap.shop/). In the top right corner you'll see the **Connect** button. Click it
 
-![](<../.gitbook/assets/swap-mobile-connectBtn.png>)
+    ![](<../.gitbook/assets/swap-mobile-connectBtn.png>)
 
 6. A window will appear asking you to choose a wallet to connect to. Click **Osiris Multi Wallet**.
 
@@ -71,23 +71,23 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 3. In the Settings menu, tap on **Network**.
 
-![](<../.gitbook/assets/image (74).png>)
+    ![](<../.gitbook/assets/image (74).png>)
 
 4. Tap on the **Add Network** button at the bottom.
 
-![](<../.gitbook/assets/image (75).png>)
+    ![](<../.gitbook/assets/image (75).png>)
 
 5. On the page that opens, type in the following details:
 
-**Network Name:** Acent Mainnet\
-**RPC Url:** [http://192.99.246.181:8545](http://192.99.246.181:8545)\
-**Chain ID:** 8888\
-**Symbol:** ACE\
-**Block Explorer URL:** [http://3.37.4.143:4000/blocks](http://3.37.4.143:4000/blocks)
+    **Network Name:** Acent Mainnet\
+    **RPC Url:** [http://192.99.246.181:8545](http://192.99.246.181:8545)\
+    **Chain ID:** 8888\
+    **Symbol:** ACE\
+    **Block Explorer URL:** [http://3.37.4.143:4000/blocks](http://3.37.4.143:4000/blocks)
 
 6. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
-![](<../.gitbook/assets/image (76).png>)
+    ![](<../.gitbook/assets/image (76).png>)
 
 7. Type "AcentSwap" into the search field and start the search. The top result will be the AcentSwap exchange. Tap to enter it.
 8. You wallet will ask you to connect. Tap **Connect** to connect to AcentSwap.
@@ -109,29 +109,29 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
 
-![](<../.gitbook/assets/image (84).png>)
+    ![](<../.gitbook/assets/image (84).png>)
 
 2. A window will open. Type in the details below.
 
-**Network Name:** Acent Mainnet\
-**RPC Url:** [http://192.99.246.181:8545](http://192.99.246.181:8545)\
-**Chain ID:** 8888\
-**Symbol:** ACE\
-**Block Explorer URL:** [http://3.37.4.143:4000/blocks](http://3.37.4.143:4000/blocks)
+    **Network Name:** Acent Mainnet\
+    **RPC Url:** [http://192.99.246.181:8545](http://192.99.246.181:8545)\
+    **Chain ID:** 8888\
+    **Symbol:** ACE\
+    **Block Explorer URL:** [http://3.37.4.143:4000/blocks](http://3.37.4.143:4000/blocks)
 
-![](<../.gitbook/assets/metamask-acent-network-add.jpg>)
+    ![](<../.gitbook/assets/metamask-acent-network-add.jpg>)
 
 3. Make sure you've typed everything in correctly and click **Save**. Acent Mainnet will now be one of your network options.
 
-![](<../.gitbook/assets/image (86).png>)
+    ![](<../.gitbook/assets/image (86).png>)
 
-1. Visit the [AcentSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+4. Visit the [AcentSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+    ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
+5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
-![](<../.gitbook/assets/image (87).png>)
+    ![](<../.gitbook/assets/image (87).png>)
 
 ### Resources
 
@@ -146,15 +146,15 @@ To connect MetaMask to AcentSwap follow the steps below.
 
 1. Open Acent Chain Wallet and click on the network selector at the top. The default network will be Acent Chain. Choose **Acent Mainnet** from the list.
 
-![](<../.gitbook/assets/image (88).png>)
+    ![](<../.gitbook/assets/image (88).png>)
 
-1. Visit the AcentSwap website. In the top-right, click **Connect**.
+2. Visit the AcentSwap website. In the top-right, click **Connect**.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (2).png>)
+    ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (2).png>)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **Acent Chain Wallet** (it's farther down the list).
+3. A window will appear asking you to choose a wallet to connect to. Click **Acent Chain Wallet** (it's farther down the list).
 
-![](<../.gitbook/assets/image (89).png>)
+    ![](<../.gitbook/assets/image (89).png>)
 
 ### Resources
 
