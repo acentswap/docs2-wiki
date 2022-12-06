@@ -148,9 +148,9 @@ To connect MetaMask to AcentSwap follow the steps below.
 
     ![](<../.gitbook/assets/osiris-multi-wallet-network-select.png>)
 
-2. Visit the AcentSwap website. In the top-right, click **Connect**.
+2. Visit the [AcentSwap website](https://pancakeswap.finance). In the top-right, click **Connect**.
 
-    ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (2).png>)
+    ![](<../.gitbook/assets/swap-connect-wallet-btn.png>)
 
 3. A window will appear asking you to choose a wallet to connect to. Click **Acent Chain Wallet** (it's farther down the list).
 
