@@ -6,6 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap_2021-2022.webp)
 
+
 This year, as part of the enhancements for the play-to-earn feature of dAppstore, we have focused on developing digital rewards through Zera. This would provide immediate value to the community as we make Zera tokens interoperable in almost all play-to-earn ecosystems of dAppstore. The pledging feature deployment of Zera is also imminent and we hope that the community will benefit from it.
 
 We have also completed other features of the Osiris Web 3.0 browser, such as the multi-blockchain dApp rendering platform, Osiris metawallet, and others to make dAppstore a fully integrated system.
@@ -28,7 +29,7 @@ You can also check out our partners:
 ### Want to get hands-on experience of web 3.0 technology and its rewards-based habitat?
 * Download the [Osiris Browser](https://acent.tech/)!
 
-
+***
 
 <!-- 
 _Updated on October 11, 2022_
