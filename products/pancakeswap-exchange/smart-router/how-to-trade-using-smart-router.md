@@ -6,7 +6,7 @@ Smart Router is disabled by default on the swap page. It is similar to using the
 
 Before starting, it requires a **Acent Mainnet-compatible wallet and ACE for gas fees.** Please check our [wallet guide](../../../get-started/wallet-guide.md) for more details.
 
-1. Go to the swap page [here.](https://pancakeswap.finance/swap#/swap)
+1. Go to the swap page [here.](https://vote.acentswap.shop/)
 2. Choose the token pairs you would like to trade. At launch, only exact input is accepted for Smart Router due to slippage concerns.&#x20;
 3. Enter the value of the tokens you wish to trade. Check the **“Use StableSwap for better fees”** box.
 

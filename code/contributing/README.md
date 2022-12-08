@@ -14,7 +14,7 @@ Before starting any development, we highly encourage you to submit an issue on G
 
 Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't.
 
-1.  Fork and clone the [repository](https://github.com/pancakeswap/pancake-frontend)
+1.  Fork and clone the [repository](https://github.com/acentswap/acent-front-15)
 
     ```bash
     $ git clone [fork_repo_url]
