@@ -12,7 +12,7 @@ Please understand that using AcentScan to interact with contracts is not recomme
 
 To interact correctly with the farming smart contract, you’ll need the matching process identifier (PID) for your LP pair. For now, the easiest way to locate this is to check GitHub.
 
-1\. Open the [AcentSwap website’s Farms code on GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
+1\. Open the [AcentSwap website’s Farms code on GitHub](https://github.com/acentswap/hardhat1/tree/main/pan-farm).
 
 2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'ADE-BUSD'.
 
