@@ -25,7 +25,7 @@ You need to migrate if you are:
 
 ### 1. Navigate to the migration helper
 
-Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
+Go to [https://vote.acentswap.shop/migration](https://vote.acentswap.shop/migration), and connect your wallet.
 
 ### 2. Unstake from the old farms
 

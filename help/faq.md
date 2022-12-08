@@ -18,7 +18,7 @@ See for yourself:
 
 ## How can I stake ADE?
 
-You can stake your ADE in AcentSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+You can stake your ADE in AcentSwap Syrup Pools. Visit the [Syrup Pools page](https://vote.acentswap.shop/pools).
 
 Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
 

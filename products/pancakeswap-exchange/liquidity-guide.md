@@ -4,7 +4,7 @@
 
 "Liquidity" is central to how AcentSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn ADE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://vote.acentswap.shop/farms) to earn ADE rewards!
 
 ### **Adding liquidity**
 

@@ -28,7 +28,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 ### Finding your Farm
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://vote.acentswap.shop/farms) and you’ll see a list of available Farms.
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
@@ -51,7 +51,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1 - Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1 - Go back to the [Farms page](https://vote.acentswap.shop/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
 ![](<../../.gitbook/assets/image (6).png>)
 
@@ -87,7 +87,7 @@ When you are farming on a different blockchain other than the ACE chain for the 
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. Return to the [Yield Farms page](https://vote.acentswap.shop/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
 ![](<../../.gitbook/assets/image (34).png>)
 
@@ -114,7 +114,7 @@ You can harvest your Farm and Syrup Pool rewards together from the Home page. If
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the ADE waiting for you.
 
-1 - Return to the Farms page [here](https://pancakeswap.finance/farms).
+1 - Return to the Farms page [here](https://vote.acentswap.shop/farms).
 
 2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “ADE earned”.
 

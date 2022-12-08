@@ -6,7 +6,7 @@ Using this functionality is really easy (the difficult thing is to trade well). 
 
 ### Go to Perpetual Trading page&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+You can enter from the [site](https://vote.acentswap.shop), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
 
 ### Deposit funds&#x20;
 

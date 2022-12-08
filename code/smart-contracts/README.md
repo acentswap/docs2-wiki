@@ -20,7 +20,7 @@ The following links will take you to the AcentScan page for AcentSwap's main sma
 
 Each liquidity pool created by AcentSwap has its own smart contract. Follow the steps below to view the LP (liquidity pool) token's smart contract on a specific farm.
 
-1 - Go to the [AcentSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
+1 - Go to the [AcentSwap Farms page](https://vote.acentswap.shop/farms) and click the row of the Farm you want to see the contract for.
 
 ![](<../../.gitbook/assets/image (126).png>)
 

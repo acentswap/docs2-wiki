@@ -33,5 +33,5 @@ AcentSwap doesn't have a dedicated support service. Instead, if you find yoursel
 
 [https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
 
-⚠️ AcentSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+⚠️ AcentSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://vote.acentswap.shop/swap?chainId=56) instead for better prices on most pairs.
 {% endhint %}

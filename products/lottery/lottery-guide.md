@@ -14,7 +14,7 @@ The Lottery has changed a little since its first iteration. Lottery v2 lets you 
 
 ‌The longer a round is open, the more people can buy a ticket. Each ticket sold increases the prize pool further. Here's how to check the current round's prize pool and remaining time.
 
-‌1. Visit the[ AcentSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
+‌1. Visit the[ AcentSwap Lottery page](https://vote.acentswap.shop/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
 
 ![](<../../.gitbook/assets/image (93).png>)
 
@@ -40,7 +40,7 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 {% tab title="Randomized ticket numbers" %}
 #### Randomized ticket numbers
 
-1\. On the[ AcentSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. On the[ AcentSwap Lottery page](https://vote.acentswap.shop/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
 ![](<../../.gitbook/assets/image (96).png>)
 
@@ -64,7 +64,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 {% tab title="Manual ticket numbers" %}
 #### Manual ticket numbers
 
-1\. On the[ AcentSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. On the[ AcentSwap Lottery page](https://vote.acentswap.shop/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
 ![](<../../.gitbook/assets/image (96).png>)
 

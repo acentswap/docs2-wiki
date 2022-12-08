@@ -12,7 +12,7 @@ AcentSwap’s Prediction is a new product that we still consider to be in beta. 
 
 Before you can use Prediction, you’ll need to review and accept the terms.
 
-Visit the [AcentSwap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
+Visit the [AcentSwap Prediction page](https://vote.acentswap.shop/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
 ![](../../.gitbook/assets/1-how-to-use-predictions.png)
 

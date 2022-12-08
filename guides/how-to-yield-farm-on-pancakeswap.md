@@ -4,7 +4,7 @@
 
 ![](https://lh6.googleusercontent.com/Dale9ZEPCvap9dHrQbAIsye8xakYV5fImD3QLRoHeeeyZrz5uKXN4ZJwv4tctoI7DxDOcV_eVHl8kbQXmaRprgcACXQUlhy__fqf_itink-MyiBg7mUylBsp49IOr6aDZyJ_yMWr)
 
-1. **Go to the farm page** [**here**](https://pancakeswap.finance/farms)**.**
+1. **Go to the farm page** [**here**](https://vote.acentswap.shop/farms)**.**
 
 \*\*\*\*
 
@@ -43,7 +43,7 @@
 
 ![](https://lh3.googleusercontent.com/eaXzqIXl-vq0G2gjwNx4AO9Ab8TmcDM0KSM1ROFvZ0gLX8ce-ufPy-zNqA8bI0FWPN4NNaOqIai3X-fg-n4rzWNBYUiaxRp4ezIFwCOG_st5fd19urcf6ZBBuezuuZXj_wNOtFBC)
 
-**7. You now have liquidity tokens. Next, go back to the farm page** [**here**](https://pancakeswap.finance/farms)**.**
+**7. You now have liquidity tokens. Next, go back to the farm page** [**here**](https://vote.acentswap.shop/farms)**.**
 
 \*\*\*\*
 

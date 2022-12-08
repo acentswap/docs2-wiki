@@ -125,7 +125,7 @@ To connect MetaMask to AcentSwap follow the steps below.
 
     ![](<../.gitbook/assets/image (86).png>)
 
-4. Visit the [AcentSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+4. Visit the [AcentSwap website](https://vote.acentswap.shop). In the top right corner you'll see the **Connect** button. Click it.
 
     ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
@@ -148,7 +148,7 @@ To connect MetaMask to AcentSwap follow the steps below.
 
     ![](<../.gitbook/assets/osiris-multi-wallet-network-select.png>)
 
-2. Visit the [AcentSwap website](https://pancakeswap.finance). In the top-right, click **Connect**.
+2. Visit the [AcentSwap website](https://vote.acentswap.shop). In the top-right, click **Connect**.
 
     ![](<../.gitbook/assets/swap-connect-wallet-btn.png>)
 

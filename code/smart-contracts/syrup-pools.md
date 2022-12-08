@@ -6,7 +6,7 @@ description: Deployers for deploying Syrup Pools
 
 ## Contract info
 
-Each Syrup pool has its own smart contract. You may find their address with the link to AcentScan on the [Syrup Pools](https://pancakeswap.finance/pools) page, under each pool's UI.
+Each Syrup pool has its own smart contract. You may find their address with the link to AcentScan on the [Syrup Pools](https://vote.acentswap.shop/pools) page, under each pool's UI.
 
 Alternatively, you may track each syrup pool using its deployer.
 

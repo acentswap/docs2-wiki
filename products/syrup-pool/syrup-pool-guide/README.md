@@ -12,7 +12,7 @@ It's simpler than farming with AcentSwap's Yield Farms because unlike the Farms,
 
 ## **Getting started with Syrup Pool staking**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Go to the Pools page [here](https://vote.acentswap.shop/pools).
 
 ![](<../../../.gitbook/assets/1-how-to-stake-in-syrup-pool (1) (1) (1) (1) (1) (2).png>)
 

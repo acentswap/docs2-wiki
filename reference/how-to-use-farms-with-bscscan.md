@@ -50,7 +50,7 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 ### From the UI
 
-1\. First, visit the [AcentSwap Farms page](https://pancakeswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using ADE-BUSD for this example.
+1\. First, visit the [AcentSwap Farms page](https://vote.acentswap.shop/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using ADE-BUSD for this example.
 
 ![](<../../.gitbook/assets/image (113).png>)
 

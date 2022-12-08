@@ -29,7 +29,7 @@ For example:
 * The ADE/ACE liquidity pool now has 10.017 ADE and 10.017 ACE.
 * Each LP token is now worth 1.00017 ADE + 1.00017 ACE.
 
-To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [ADE Farms](https://pancakeswap.finance/farms), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [ADE Farms](https://vote.acentswap.shop/farms), while still earning your 0.17% trading fee reward.
 
 ## Impermanent Loss
 
