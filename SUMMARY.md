@@ -80,7 +80,7 @@
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
-* [Smart Contracts (ACENT)](code/smart-contracts/README.md)
+* [Smart Contracts](code/smart-contracts/README.md)
   * [AcentSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
     * [v2](code/smart-contracts/pancakeswap-exchange/v2/README.md)
       * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
