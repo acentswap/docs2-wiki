@@ -1,6 +1,6 @@
 # Get ARC20 Tokens
 
-![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
+![](../.gitbook/assets/how-to-get-arc20-tokens-header.png)
 
 The native tokens of Acent Mainnet are **ARC20**.
 

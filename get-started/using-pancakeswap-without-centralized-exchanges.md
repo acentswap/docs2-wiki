@@ -6,7 +6,7 @@ description: >-
 
 # Using AcentSwap without Centralized Exchanges
 
-![](<../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](<../.gitbook/assets/how-to-acentswap-without-cex-header.png>)
 
 AcentSwap is a decentralized application. That means, unlike Acent or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto AcentSwap without using a centralized exchange?
 
