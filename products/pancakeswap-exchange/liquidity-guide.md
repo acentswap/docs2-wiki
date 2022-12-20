@@ -12,7 +12,7 @@ To provide liquidity, you’ll need to commit an amount of any token pair you li
 
 You can easily trade for any tokens you need. Visit our [How to Trade on AcentSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using ACE and ADE.\
+In this example, we will add liquidity using ACE and ADE.
 ****
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
@@ -85,4 +85,4 @@ To remove liquidity.
 
 ![](<../../.gitbook/assets/Add\_Remove\_LP\_15 (1).png>)
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\
+8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.

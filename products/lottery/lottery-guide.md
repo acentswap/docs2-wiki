@@ -126,4 +126,4 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX\_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX\_CuVuWAawaor6Mi)
 
-2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
+2\. A window will open showing the winning numbers and all of your tickets and their numbers.\
